@@ -1,0 +1,13 @@
+{
+  "leagues": ["E1", "E2", "E3", "EC", "SC1", "SC2", "SC3", "D2", "I2", "SP2", "F2"],
+  "dev_seasons": ["2425"],
+  "holdout_seasons": ["2526"],
+  "flag_edge": 0.03,
+  "commission": 0.02,
+  "min_mean_clv": 0.02,
+  "pinnacle_overround_range": [1.0, 1.12],
+  "placebo_sets": 200,
+  "placebo_seed": 7301,
+  "bootstrap_resamples": 10000,
+  "bootstrap_seed": 20261027
+}
