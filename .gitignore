@@ -1,0 +1,12 @@
+# Raw data stays out of git (CLAUDE.md s10); the manifest is committed.
+data/raw/
+data/sealed/
+data/work/
+data/recorder/
+*.parquet
+*.csv.gz
+__pycache__/
+.pytest_cache/
+.env
+# keep these
+!data/MANIFEST.csv

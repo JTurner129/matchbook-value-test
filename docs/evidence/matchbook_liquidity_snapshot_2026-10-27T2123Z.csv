@@ -1,0 +1,754 @@
+competition,event,start_utc,market_volume_gbp,runner,best_back,best_back_avail_gbp,best_lay,best_lay_avail_gbp
+Netherlands KNVB Beker,BVV Barendrecht vs RKC Waalwijk,2026-10-27T19:00:00.000Z,0.0,BVV Barendrecht,6.6,7.14,16.0,40.0
+Netherlands KNVB Beker,BVV Barendrecht vs RKC Waalwijk,2026-10-27T19:00:00.000Z,0.0,RKC Waalwijk,6.6,7.14,16.0,40.0
+Netherlands KNVB Beker,BVV Barendrecht vs RKC Waalwijk,2026-10-27T19:00:00.000Z,0.0,Draw,1.14,285.71,,
+Spain Copa del Rey,RSD Alcalá vs UD Las Palmas,2026-10-27T19:00:00.000Z,0.0,RSD Alcalá,,,,
+Spain Copa del Rey,RSD Alcalá vs UD Las Palmas,2026-10-27T19:00:00.000Z,0.0,UD Las Palmas,,,,
+Spain Copa del Rey,RSD Alcalá vs UD Las Palmas,2026-10-27T19:00:00.000Z,0.0,Draw,,,,
+Spain Copa del Rey,U.D Llanera vs Ponferradina,2026-10-27T19:00:00.000Z,0.0,U.D Llanera,6.8,34.48,16.5,162.73
+Spain Copa del Rey,U.D Llanera vs Ponferradina,2026-10-27T19:00:00.000Z,0.0,Ponferradina,5.2,47.62,12.0,10.0
+Spain Copa del Rey,U.D Llanera vs Ponferradina,2026-10-27T19:00:00.000Z,0.0,Draw,1.17,1176.47,1.48,200.0
+Spain Copa del Rey,Centre d'Esports Manresa vs Unió Esportiva Sant Andreu,2026-10-27T19:30:00.000Z,461.43872,Centre d'Esports Manresa,18.0,2.0,,
+Spain Copa del Rey,Centre d'Esports Manresa vs Unió Esportiva Sant Andreu,2026-10-27T19:30:00.000Z,461.43872,Unió Esportiva Sant Andreu,15.0,2.0,,
+Spain Copa del Rey,Centre d'Esports Manresa vs Unió Esportiva Sant Andreu,2026-10-27T19:30:00.000Z,461.43872,Draw,1.03,9.0,1.09,9.0
+Poland Cup,Piast Gliwice vs Górnik Zabrze,2026-10-27T19:36:00.000Z,799.69867,Piast Gliwice,7.6,2.0,8.8,92.48
+Poland Cup,Piast Gliwice vs Górnik Zabrze,2026-10-27T19:36:00.000Z,799.69867,Górnik Zabrze,4.7,38.0,5.0,12.0
+Poland Cup,Piast Gliwice vs Górnik Zabrze,2026-10-27T19:36:00.000Z,799.69867,Draw,1.5,3.0,1.51,46.0
+Ireland First Division,Bray Wanderers vs Kerry FC,2026-10-27T19:44:00.000Z,656.87516,Bray Wanderers,,,1.02,464.0
+Ireland First Division,Bray Wanderers vs Kerry FC,2026-10-27T19:44:00.000Z,656.87516,Kerry FC,75.0,2.0,,
+Ireland First Division,Bray Wanderers vs Kerry FC,2026-10-27T19:44:00.000Z,656.87516,Draw,55.0,2.0,,
+England League 1,Oxford United vs Stockport County,2026-10-27T19:44:00.000Z,15226.51806,Oxford United,1.32,180.69,1.37,170.43
+England League 1,Oxford United vs Stockport County,2026-10-27T19:44:00.000Z,15226.51806,Stockport County,23.0,2.0,29.0,6.83
+England League 1,Oxford United vs Stockport County,2026-10-27T19:44:00.000Z,15226.51806,Draw,4.4,25.26,4.8,16.0
+England National League,Woking vs Boreham Wood,2026-10-27T19:44:00.000Z,1565.17817,Woking,,,,
+England National League,Woking vs Boreham Wood,2026-10-27T19:44:00.000Z,1565.17817,Boreham Wood,,,,
+England National League,Woking vs Boreham Wood,2026-10-27T19:44:00.000Z,1565.17817,Draw,,,,
+Germany DFB Pokal,1. FC Köln vs 1. FC Union Berlin,2026-10-27T19:45:00.000Z,2903.71807,1. FC Köln,,,1.04,436.0
+Germany DFB Pokal,1. FC Köln vs 1. FC Union Berlin,2026-10-27T19:45:00.000Z,2903.71807,1. FC Union Berlin,110.0,2.0,,
+Germany DFB Pokal,1. FC Köln vs 1. FC Union Berlin,2026-10-27T19:45:00.000Z,2903.71807,Draw,22.0,7.0,,
+England National League,AFC Fylde vs Hartlepool United,2026-10-27T19:45:00.000Z,1002.70551,AFC Fylde,1.23,10.0,2.24,3.0
+England National League,AFC Fylde vs Hartlepool United,2026-10-27T19:45:00.000Z,1002.70551,Hartlepool United,15.5,2.0,,
+England National League,AFC Fylde vs Hartlepool United,2026-10-27T19:45:00.000Z,1002.70551,Draw,2.0,7.0,5.6,3.0
+England National League,Altrincham FC vs Kidderminster Harriers,2026-10-27T19:45:00.000Z,81.11667,Altrincham FC,2.8,220.22,3.0,28.0
+England National League,Altrincham FC vs Kidderminster Harriers,2026-10-27T19:45:00.000Z,81.11667,Kidderminster Harriers,11.5,75.9,13.0,3.0
+England National League,Altrincham FC vs Kidderminster Harriers,2026-10-27T19:45:00.000Z,81.11667,Draw,1.71,119.0,1.76,97.0
+Italy Serie A,AS Roma vs Cagliari,2026-10-27T19:45:00.000Z,150081.31535,AS Roma,1.13,1110.0,1.15,471.0
+Italy Serie A,AS Roma vs Cagliari,2026-10-27T19:45:00.000Z,150081.31535,Cagliari,100.0,43.4,150.0,592.43
+Italy Serie A,AS Roma vs Cagliari,2026-10-27T19:45:00.000Z,150081.31535,Draw,8.6,3.0,9.2,1918.17
+Germany DFB Pokal,Borussia Mönchengladbach vs Karlsruher SC,2026-10-27T19:45:00.000Z,5668.58868,Borussia Mönchengladbach,1.09,17.0,1.1,435.0
+Germany DFB Pokal,Borussia Mönchengladbach vs Karlsruher SC,2026-10-27T19:45:00.000Z,5668.58868,Karlsruher SC,80.0,3.0,120.0,72.3
+Germany DFB Pokal,Borussia Mönchengladbach vs Karlsruher SC,2026-10-27T19:45:00.000Z,5668.58868,Draw,14.0,100.59,14.5,3.0
+England National League,Boston United vs Gateshead,2026-10-27T19:45:00.000Z,343.16993,Boston United,3.8,2.0,4.2,3.0
+England National League,Boston United vs Gateshead,2026-10-27T19:45:00.000Z,343.16993,Gateshead,6.8,36.11,8.6,20.7
+England National League,Boston United vs Gateshead,2026-10-27T19:45:00.000Z,343.16993,Draw,1.59,85.0,1.64,78.0
+England National League,FC Halifax Town vs Barrow,2026-10-27T19:45:00.000Z,135.15882,FC Halifax Town,1.22,179.0,1.25,405.65
+England National League,FC Halifax Town vs Barrow,2026-10-27T19:45:00.000Z,135.15882,Barrow,42.0,2.0,70.0,2.63
+England National League,FC Halifax Town vs Barrow,2026-10-27T19:45:00.000Z,135.15882,Draw,5.8,38.0,6.2,2.0
+England National League,Hornchurch FC vs Yeovil Town,2026-10-27T19:45:00.000Z,769.73334,Hornchurch FC,30.0,13.79,46.0,42.38
+England National League,Hornchurch FC vs Yeovil Town,2026-10-27T19:45:00.000Z,769.73334,Yeovil Town,1.25,342.5,1.29,138.0
+England National League,Hornchurch FC vs Yeovil Town,2026-10-27T19:45:00.000Z,769.73334,Draw,5.1,6.0,5.7,49.25
+England League 1,Luton Town vs Doncaster Rovers,2026-10-27T19:45:00.000Z,7802.62985,Luton Town,,,1.01,225.0
+England League 1,Luton Town vs Doncaster Rovers,2026-10-27T19:45:00.000Z,7802.62985,Doncaster Rovers,140.0,4.11,,
+England League 1,Luton Town vs Doncaster Rovers,2026-10-27T19:45:00.000Z,7802.62985,Draw,100.0,4.04,,
+England League 1,Sheffield Wednesday vs Cambridge United,2026-10-27T19:45:00.000Z,8066.95808,Sheffield Wednesday,4.1,79.4,4.4,25.0
+England League 1,Sheffield Wednesday vs Cambridge United,2026-10-27T19:45:00.000Z,8066.95808,Cambridge United,5.7,2.0,6.0,3.0
+England League 1,Sheffield Wednesday vs Cambridge United,2026-10-27T19:45:00.000Z,8066.95808,Draw,1.65,9.0,1.68,3.0
+Scotland Championship,Stenhousemuir vs Dunfermline Athletic,2026-10-27T19:45:00.000Z,1090.93547,Stenhousemuir,110.0,3.49,220.0,31.89
+Scotland Championship,Stenhousemuir vs Dunfermline Athletic,2026-10-27T19:45:00.000Z,1090.93547,Dunfermline Athletic,1.1,127.0,1.11,3.0
+Scotland Championship,Stenhousemuir vs Dunfermline Athletic,2026-10-27T19:45:00.000Z,1090.93547,Draw,10.0,11.0,11.5,3.0
+England National League,Tamworth vs Scunthorpe United,2026-10-27T19:45:00.000Z,115.41477,Tamworth,1.03,49.0,1.05,114.0
+England National League,Tamworth vs Scunthorpe United,2026-10-27T19:45:00.000Z,115.41477,Scunthorpe United,170.0,2.0,540.0,5.05
+England National League,Tamworth vs Scunthorpe United,2026-10-27T19:45:00.000Z,115.41477,Draw,26.0,3.0,48.0,6.58
+England National League,Wealdstone vs Solihull Moors,2026-10-27T19:45:00.000Z,232.25768,Wealdstone,120.0,2.0,350.0,8.49
+England National League,Wealdstone vs Solihull Moors,2026-10-27T19:45:00.000Z,232.25768,Solihull Moors,1.04,1841.4,1.06,143.0
+England National League,Wealdstone vs Solihull Moors,2026-10-27T19:45:00.000Z,232.25768,Draw,19.0,2.0,29.0,44.9
+England National League,Worthing vs Southend United,2026-10-27T19:45:00.000Z,548.10937,Worthing,5.0,2.0,5.5,4.0
+England National League,Worthing vs Southend United,2026-10-27T19:45:00.000Z,548.10937,Southend United,3.65,26.0,4.2,3.0
+England National League,Worthing vs Southend United,2026-10-27T19:45:00.000Z,548.10937,Draw,1.79,31.87,1.85,4.0
+England League 2,Barnet vs York City,2026-10-27T19:46:00.000Z,4884.69886,Barnet,2.66,15.38,2.74,3.0
+England League 2,Barnet vs York City,2026-10-27T19:46:00.000Z,4884.69886,York City,9.4,5.0,10.0,3.0
+England League 2,Barnet vs York City,2026-10-27T19:46:00.000Z,4884.69886,Draw,1.87,72.0,1.94,70.0
+Northern Ireland NIFL Premiership,Larne vs Limavady United,2026-10-27T19:46:00.000Z,238.78252,Larne,,,,
+Northern Ireland NIFL Premiership,Larne vs Limavady United,2026-10-27T19:46:00.000Z,238.78252,Limavady United,,,,
+Northern Ireland NIFL Premiership,Larne vs Limavady United,2026-10-27T19:46:00.000Z,238.78252,Draw,,,,
+England League 1,Leicester City vs Wigan Athletic,2026-10-27T19:46:00.000Z,12334.44781,Leicester City,1.01,57.0,1.02,3.0
+England League 1,Leicester City vs Wigan Athletic,2026-10-27T19:46:00.000Z,12334.44781,Wigan Athletic,230.0,3.25,,
+England League 1,Leicester City vs Wigan Athletic,2026-10-27T19:46:00.000Z,12334.44781,Draw,,,90.0,85.46
+Scotland League One,Ross County vs Hamilton Academical,2026-10-27T19:46:00.000Z,365.74236,Ross County,3.75,2.0,4.0,23.0
+Scotland League One,Ross County vs Hamilton Academical,2026-10-27T19:46:00.000Z,365.74236,Hamilton Academical,11.0,3.0,14.0,11.99
+Scotland League One,Ross County vs Hamilton Academical,2026-10-27T19:46:00.000Z,365.74236,Draw,1.5,67.0,1.54,18.0
+Germany DFB Pokal,SV Elversberg vs SV Darmstadt 98,2026-10-27T19:46:00.000Z,4900.6516,SV Elversberg,40.0,3.0,48.0,2.0
+Germany DFB Pokal,SV Elversberg vs SV Darmstadt 98,2026-10-27T19:46:00.000Z,4900.6516,SV Darmstadt 98,1.14,3.0,1.15,485.0
+Germany DFB Pokal,SV Elversberg vs SV Darmstadt 98,2026-10-27T19:46:00.000Z,4900.6516,Draw,9.4,3.0,9.8,3.0
+Ireland First Division,UCD vs Longford Town,2026-10-27T19:47:00.000Z,1276.00354,UCD,1.02,203.0,1.03,15.0
+Ireland First Division,UCD vs Longford Town,2026-10-27T19:47:00.000Z,1276.00354,Longford Town,75.0,2.0,,
+Ireland First Division,UCD vs Longford Town,2026-10-27T19:47:00.000Z,1276.00354,Draw,38.0,12.41,65.0,2.61
+England League Cup,Bradford City vs Peterborough United,2026-10-27T19:48:00.000Z,23881.975,Bradford City,1.01,345.0,1.03,1061.44
+England League Cup,Bradford City vs Peterborough United,2026-10-27T19:48:00.000Z,23881.975,Peterborough United,350.0,2.93,,
+England League Cup,Bradford City vs Peterborough United,2026-10-27T19:48:00.000Z,23881.975,Draw,60.0,3.0,,
+Italy Serie A,Torino vs Como,2026-10-27T19:48:00.000Z,93346.97446,Torino,1.63,834.0,1.67,179.0
+Italy Serie A,Torino vs Como,2026-10-27T19:48:00.000Z,93346.97446,Como,9.8,20.0,11.0,2306.44
+Italy Serie A,Torino vs Como,2026-10-27T19:48:00.000Z,93346.97446,Draw,3.3,298.0,3.45,4303.3
+England League 1,Milton Keynes Dons vs Bromley,2026-10-27T19:50:00.000Z,7376.63202,Milton Keynes Dons,1.02,32.0,1.03,660.29
+England League 1,Milton Keynes Dons vs Bromley,2026-10-27T19:50:00.000Z,7376.63202,Bromley,100.0,4.07,,
+England League 1,Milton Keynes Dons vs Bromley,2026-10-27T19:50:00.000Z,7376.63202,Draw,50.0,2.0,85.0,95.86
+Germany DFB Pokal,Borussia Dortmund vs Werder Bremen,2026-10-27T19:51:00.000Z,11159.13182,Borussia Dortmund,2.86,110.0,2.9,14.0
+Germany DFB Pokal,Borussia Dortmund vs Werder Bremen,2026-10-27T19:51:00.000Z,11159.13182,Werder Bremen,6.6,177.0,7.0,2067.0
+Germany DFB Pokal,Borussia Dortmund vs Werder Bremen,2026-10-27T19:51:00.000Z,11159.13182,Draw,1.96,59.0,1.98,20.0
+Spain Copa del Rey,Recreativo de Huelva vs Rayo Vallecano,2026-10-27T19:59:00.000Z,412.19225,Recreativo de Huelva,17.5,3.0,19.5,6.0
+Spain Copa del Rey,Recreativo de Huelva vs Rayo Vallecano,2026-10-27T19:59:00.000Z,412.19225,Rayo Vallecano,1.61,140.11,1.63,10.0
+Spain Copa del Rey,Recreativo de Huelva vs Rayo Vallecano,2026-10-27T19:59:00.000Z,412.19225,Draw,2.9,13.0,3.05,3.0
+Spain Copa del Rey,Arosa Sociedad Cultural vs Pontevedra,2026-10-27T20:00:00.000Z,78.57851,Arosa Sociedad Cultural,1.5,149.0,1.54,37.0
+Spain Copa del Rey,Arosa Sociedad Cultural vs Pontevedra,2026-10-27T20:00:00.000Z,78.57851,Pontevedra,12.0,2.0,13.0,11.0
+Spain Copa del Rey,Arosa Sociedad Cultural vs Pontevedra,2026-10-27T20:00:00.000Z,78.57851,Draw,3.7,39.0,3.95,41.0
+Spain Copa del Rey,CD Tudelano vs Real Zaragoza,2026-10-27T20:00:00.000Z,118.11872,CD Tudelano,260.0,4.03,,
+Spain Copa del Rey,CD Tudelano vs Real Zaragoza,2026-10-27T20:00:00.000Z,118.11872,Real Zaragoza,,,1.01,124.0
+Spain Copa del Rey,CD Tudelano vs Real Zaragoza,2026-10-27T20:00:00.000Z,118.11872,Draw,260.0,4.06,,
+England League Cup,Fleetwood Town vs Arsenal,2026-10-27T20:00:00.000Z,146912.27395,Fleetwood Town,36.0,2.0,38.0,3.0
+England League Cup,Fleetwood Town vs Arsenal,2026-10-27T20:00:00.000Z,146912.27395,Arsenal,1.3,260.0,1.31,33.0
+England League Cup,Fleetwood Town vs Arsenal,2026-10-27T20:00:00.000Z,146912.27395,Draw,4.6,11.0,4.8,19.72
+Peru Liga 1,Juan Pablo II College vs Sport Huancayo,2026-10-27T20:00:00.000Z,1048.55037,Juan Pablo II College,,,,
+Peru Liga 1,Juan Pablo II College vs Sport Huancayo,2026-10-27T20:00:00.000Z,1048.55037,Sport Huancayo,,,,
+Peru Liga 1,Juan Pablo II College vs Sport Huancayo,2026-10-27T20:00:00.000Z,1048.55037,Draw,,,,
+Netherlands KNVB Beker,Koninklijke HFC vs Go Ahead Eagles,2026-10-27T20:00:00.000Z,26.79009,Koninklijke HFC,140.0,2.88,,
+Netherlands KNVB Beker,Koninklijke HFC vs Go Ahead Eagles,2026-10-27T20:00:00.000Z,26.79009,Go Ahead Eagles,,,1.01,464.0
+Netherlands KNVB Beker,Koninklijke HFC vs Go Ahead Eagles,2026-10-27T20:00:00.000Z,26.79009,Draw,100.0,4.04,,
+Spain Copa del Rey,Sporting Alcazar vs Málaga,2026-10-27T20:00:00.000Z,222.63754,Sporting Alcazar,23.0,3.0,,
+Spain Copa del Rey,Sporting Alcazar vs Málaga,2026-10-27T20:00:00.000Z,222.63754,Málaga,1.32,8.0,1.35,72.0
+Spain Copa del Rey,Sporting Alcazar vs Málaga,2026-10-27T20:00:00.000Z,222.63754,Draw,4.2,3.0,4.6,22.0
+Spain Copa del Rey,CD Manacor vs Villarreal,2026-10-27T20:01:00.000Z,2497.12242,CD Manacor,150.0,6.0,,
+Spain Copa del Rey,CD Manacor vs Villarreal,2026-10-27T20:01:00.000Z,2497.12242,Villarreal,,,1.01,465.0
+Spain Copa del Rey,CD Manacor vs Villarreal,2026-10-27T20:01:00.000Z,2497.12242,Draw,100.0,4.04,,
+Portugal League Cup,Sporting CP vs Marítimo,2026-10-27T20:17:00.000Z,1541.24758,Sporting CP,1.22,209.23,1.24,400.0
+Portugal League Cup,Sporting CP vs Marítimo,2026-10-27T20:17:00.000Z,1541.24758,Marítimo,28.0,14.81,36.0,32.12
+Portugal League Cup,Sporting CP vs Marítimo,2026-10-27T20:17:00.000Z,1541.24758,Draw,6.4,74.07,6.8,37.63
+Venezuela Primera Division,Academia Puerto Cabello vs Caracas FC,2026-10-27T21:30:00.000Z,246.43512,Academia Puerto Cabello,1.79,15.0,1.83,24.0
+Venezuela Primera Division,Academia Puerto Cabello vs Caracas FC,2026-10-27T21:30:00.000Z,246.43512,Caracas FC,5.4,10.0,5.7,15.0
+Venezuela Primera Division,Academia Puerto Cabello vs Caracas FC,2026-10-27T21:30:00.000Z,246.43512,Draw,3.7,5.0,3.85,5.0
+Argentina Liga Profesional de Fútbol,Argentinos Juniors vs Independiente Rivadavia,2026-10-27T22:00:00.000Z,1099.74525,Argentinos Juniors,2.16,7.0,2.18,97.09
+Argentina Liga Profesional de Fútbol,Argentinos Juniors vs Independiente Rivadavia,2026-10-27T22:00:00.000Z,1099.74525,Independiente Rivadavia,4.2,82.06,4.4,431.14
+Argentina Liga Profesional de Fútbol,Argentinos Juniors vs Independiente Rivadavia,2026-10-27T22:00:00.000Z,1099.74525,Draw,3.25,25.03,3.35,31.02
+Uruguay Cup,CA Peñarol vs Montevideo City Torque,2026-10-27T22:30:00.000Z,17.22497,CA Peñarol,2.06,6.0,2.14,9.8
+Uruguay Cup,CA Peñarol vs Montevideo City Torque,2026-10-27T22:30:00.000Z,17.22497,Montevideo City Torque,4.1,11.46,4.5,13.31
+Uruguay Cup,CA Peñarol vs Montevideo City Torque,2026-10-27T22:30:00.000Z,17.22497,Draw,3.35,2.31,3.5,4.0
+Paraguay Cup,Club Libertad Asunción vs Independiente FBC,2026-10-27T22:30:00.000Z,25.14274,Club Libertad Asunción,1.54,15.0,1.58,2.68
+Paraguay Cup,Club Libertad Asunción vs Independiente FBC,2026-10-27T22:30:00.000Z,25.14274,Independiente FBC,6.4,96.34,7.4,3.83
+Paraguay Cup,Club Libertad Asunción vs Independiente FBC,2026-10-27T22:30:00.000Z,25.14274,Draw,4.4,7.74,4.9,14.29
+Brazil Serie B,Ceará SC vs Goiás EC,2026-10-27T23:00:00.000Z,64.23081,Ceará SC,2.2,25.02,2.22,32.0
+Brazil Serie B,Ceará SC vs Goiás EC,2026-10-27T23:00:00.000Z,64.23081,Goiás EC,3.55,37.66,3.65,2.0
+Brazil Serie B,Ceará SC vs Goiás EC,2026-10-27T23:00:00.000Z,64.23081,Draw,3.6,2.0,3.7,10.87
+Colombia Categoría Primera A,Cúcuta Deportivo vs Águilas Doradas,2026-10-27T23:00:00.000Z,64.78176,Cúcuta Deportivo,2.98,2.0,3.15,417.52
+Colombia Categoría Primera A,Cúcuta Deportivo vs Águilas Doradas,2026-10-27T23:00:00.000Z,64.78176,Águilas Doradas,2.66,49.8,2.78,1.75
+Colombia Categoría Primera A,Cúcuta Deportivo vs Águilas Doradas,2026-10-27T23:00:00.000Z,64.78176,Draw,3.2,4.0,3.4,372.22
+Venezuela Primera Division,Deportivo Táchira vs Monagas SC,2026-10-27T23:30:00.000Z,77.61029,Deportivo Táchira,1.56,55.23,1.64,37.17
+Venezuela Primera Division,Deportivo Táchira vs Monagas SC,2026-10-27T23:30:00.000Z,77.61029,Monagas SC,5.9,15.62,6.8,12.29
+Venezuela Primera Division,Deportivo Táchira vs Monagas SC,2026-10-27T23:30:00.000Z,77.61029,Draw,4.3,29.15,4.9,15.26
+Colombia Categoría Primera A,Boyacá Chicó vs Junior,2026-10-28T01:05:00.000Z,19.49992,Boyacá Chicó,2.68,245.6,2.82,1.88
+Colombia Categoría Primera A,Boyacá Chicó vs Junior,2026-10-28T01:05:00.000Z,19.49992,Junior,2.8,2.0,2.94,2.0
+Colombia Categoría Primera A,Boyacá Chicó vs Junior,2026-10-28T01:05:00.000Z,19.49992,Draw,3.35,216.88,3.55,400.03
+AFC Champions League Elite,Gamba Osaka vs Buriram United,2026-10-28T10:00:00.000Z,0.0,Gamba Osaka,1.76,372.47,1.83,13.02
+AFC Champions League Elite,Gamba Osaka vs Buriram United,2026-10-28T10:00:00.000Z,0.0,Buriram United,4.7,15.02,5.2,28.53
+AFC Champions League Elite,Gamba Osaka vs Buriram United,2026-10-28T10:00:00.000Z,0.0,Draw,4.0,7.0,4.3,6.0
+AFC Champions League Elite,Kashima Antlers vs Pohang Steelers,2026-10-28T10:00:00.000Z,0.0,Kashima Antlers,1.3,1438.3,1.35,152.92
+AFC Champions League Elite,Kashima Antlers vs Pohang Steelers,2026-10-28T10:00:00.000Z,0.0,Pohang Steelers,10.5,45.15,12.0,160.67
+AFC Champions League Elite,Kashima Antlers vs Pohang Steelers,2026-10-28T10:00:00.000Z,0.0,Draw,6.2,16.95,6.8,220.36
+Egypt Premier League,National Bank vs El-Masry,2026-10-28T14:00:00.000Z,0.0,National Bank,2.82,48.17,3.0,10.7
+Egypt Premier League,National Bank vs El-Masry,2026-10-28T14:00:00.000Z,0.0,El-Masry,2.72,41.34,2.92,16.0
+Egypt Premier League,National Bank vs El-Masry,2026-10-28T14:00:00.000Z,0.0,Draw,3.2,23.01,3.4,3.0
+Finland Veikkausliiga,AC Oulu vs VPS,2026-10-28T16:00:00.000Z,0.0,AC Oulu,2.48,18.01,2.52,3.0
+Finland Veikkausliiga,AC Oulu vs VPS,2026-10-28T16:00:00.000Z,0.0,VPS,3.05,3.0,3.15,184.54
+Finland Veikkausliiga,AC Oulu vs VPS,2026-10-28T16:00:00.000Z,0.0,Draw,3.6,3.0,3.65,2.0
+Peru Liga 1,Asociacion Deportiva Tarma vs Deportivo Moquegua,2026-10-28T16:00:00.000Z,0.0,Asociacion Deportiva Tarma,1.61,3.0,1.64,4.0
+Peru Liga 1,Asociacion Deportiva Tarma vs Deportivo Moquegua,2026-10-28T16:00:00.000Z,0.0,Deportivo Moquegua,6.0,88.05,6.6,15.06
+Peru Liga 1,Asociacion Deportiva Tarma vs Deportivo Moquegua,2026-10-28T16:00:00.000Z,0.0,Draw,4.2,34.12,4.5,14.01
+Georgia Cup,FC Dinamo Batumi vs FC Dila Gori,2026-10-28T16:00:00.000Z,0.0,FC Dinamo Batumi,1.11,9.99,,
+Georgia Cup,FC Dinamo Batumi vs FC Dila Gori,2026-10-28T16:00:00.000Z,0.0,FC Dila Gori,1.11,10.0,,
+Georgia Cup,FC Dinamo Batumi vs FC Dila Gori,2026-10-28T16:00:00.000Z,0.0,Draw,1.11,10.0,,
+Norway NM Cupen,Tromsdalen vs FK Lyn,2026-10-28T16:00:00.000Z,0.0,Tromsdalen,,,,
+Norway NM Cupen,Tromsdalen vs FK Lyn,2026-10-28T16:00:00.000Z,0.0,FK Lyn,,,,
+Norway NM Cupen,Tromsdalen vs FK Lyn,2026-10-28T16:00:00.000Z,0.0,Draw,,,,
+Germany DFB Pokal,Dynamo Dresden vs FC Schalke 04,2026-10-28T17:00:00.000Z,41.56145,Dynamo Dresden,3.4,3.0,3.45,2.0
+Germany DFB Pokal,Dynamo Dresden vs FC Schalke 04,2026-10-28T17:00:00.000Z,41.56145,FC Schalke 04,2.24,18.01,2.26,18.58
+Germany DFB Pokal,Dynamo Dresden vs FC Schalke 04,2026-10-28T17:00:00.000Z,41.56145,Draw,3.75,193.58,3.9,9.01
+Norway NM Cupen,Egersund vs Bryne,2026-10-28T17:00:00.000Z,0.0,Egersund,1.89,12.12,2.04,10.0
+Norway NM Cupen,Egersund vs Bryne,2026-10-28T17:00:00.000Z,0.0,Bryne,3.4,8.19,3.9,4.52
+Norway NM Cupen,Egersund vs Bryne,2026-10-28T17:00:00.000Z,0.0,Draw,4.3,4.11,4.9,6.52
+Norway NM Cupen,Grorud vs Brann,2026-10-28T17:00:00.000Z,0.0,Grorud,8.0,2.0,9.6,2.54
+Norway NM Cupen,Grorud vs Brann,2026-10-28T17:00:00.000Z,0.0,Brann,1.34,18.15,1.4,13.0
+Norway NM Cupen,Grorud vs Brann,2026-10-28T17:00:00.000Z,0.0,Draw,6.0,2.0,7.0,3.57
+Norway NM Cupen,Kristiansund BK vs Aalesunds FK,2026-10-28T17:00:00.000Z,0.0,Kristiansund BK,2.2,17.78,2.4,52.31
+Norway NM Cupen,Kristiansund BK vs Aalesunds FK,2026-10-28T17:00:00.000Z,0.0,Aalesunds FK,2.92,13.39,3.2,24.23
+Norway NM Cupen,Kristiansund BK vs Aalesunds FK,2026-10-28T17:00:00.000Z,0.0,Draw,4.0,28.79,4.4,19.89
+Norway NM Cupen,Lillestrøm SK vs Sogndal,2026-10-28T17:00:00.000Z,0.0,Lillestrøm SK,1.13,27.04,1.15,456.33
+Norway NM Cupen,Lillestrøm SK vs Sogndal,2026-10-28T17:00:00.000Z,0.0,Sogndal,26.0,20.51,32.0,19.93
+Norway NM Cupen,Lillestrøm SK vs Sogndal,2026-10-28T17:00:00.000Z,0.0,Draw,11.0,47.59,13.0,3.21
+Norway NM Cupen,Molde vs Strømsgodset,2026-10-28T17:00:00.000Z,0.0,Molde,1.23,39.83,1.26,45.02
+Norway NM Cupen,Molde vs Strømsgodset,2026-10-28T17:00:00.000Z,0.0,Strømsgodset,11.5,4.0,14.0,4.65
+Norway NM Cupen,Molde vs Strømsgodset,2026-10-28T17:00:00.000Z,0.0,Draw,7.8,5.96,9.2,2.0
+Norway NM Cupen,Odds Ballklubb vs Sandefjord Fotball,2026-10-28T17:00:00.000Z,0.0,Odds Ballklubb,2.48,8.69,2.72,3.0
+Norway NM Cupen,Odds Ballklubb vs Sandefjord Fotball,2026-10-28T17:00:00.000Z,0.0,Sandefjord Fotball,2.52,7.96,2.92,6.52
+Norway NM Cupen,Odds Ballklubb vs Sandefjord Fotball,2026-10-28T17:00:00.000Z,0.0,Draw,3.6,5.29,4.3,4.43
+Norway NM Cupen,Pors Grenland vs Kongsvinger IL,2026-10-28T17:00:00.000Z,0.51013,Pors Grenland,4.4,2.0,4.6,12.01
+Norway NM Cupen,Pors Grenland vs Kongsvinger IL,2026-10-28T17:00:00.000Z,0.51013,Kongsvinger IL,1.69,251.48,1.77,13.84
+Norway NM Cupen,Pors Grenland vs Kongsvinger IL,2026-10-28T17:00:00.000Z,0.51013,Draw,4.8,8.06,5.2,23.19
+Norway NM Cupen,Ranheim vs Fredrikstad,2026-10-28T17:00:00.000Z,0.0,Ranheim,3.9,3.0,4.3,6.45
+Norway NM Cupen,Ranheim vs Fredrikstad,2026-10-28T17:00:00.000Z,0.0,Fredrikstad,1.82,13.95,1.93,10.01
+Norway NM Cupen,Ranheim vs Fredrikstad,2026-10-28T17:00:00.000Z,0.0,Draw,4.2,4.65,4.7,3.0
+Norway NM Cupen,Rosenborg BK vs Hamarkameratene,2026-10-28T17:00:00.000Z,0.0,Rosenborg BK,1.26,71.63,1.3,130.72
+Norway NM Cupen,Rosenborg BK vs Hamarkameratene,2026-10-28T17:00:00.000Z,0.0,Hamarkameratene,11.5,4.0,14.0,6.75
+Norway NM Cupen,Rosenborg BK vs Hamarkameratene,2026-10-28T17:00:00.000Z,0.0,Draw,6.8,12.67,7.6,3.0
+Norway NM Cupen,Sarpsborg 08 vs Vålerenga,2026-10-28T17:00:00.000Z,0.0,Sarpsborg 08,2.14,18.4,2.38,16.56
+Norway NM Cupen,Sarpsborg 08 vs Vålerenga,2026-10-28T17:00:00.000Z,0.0,Vålerenga,2.96,17.74,3.4,11.59
+Norway NM Cupen,Sarpsborg 08 vs Vålerenga,2026-10-28T17:00:00.000Z,0.0,Draw,3.85,10.24,4.6,8.67
+Germany DFB Pokal,SC Freiburg vs VfL Wolfsburg,2026-10-28T17:00:00.000Z,528.63844,SC Freiburg,1.58,15.01,1.6,17.39
+Germany DFB Pokal,SC Freiburg vs VfL Wolfsburg,2026-10-28T17:00:00.000Z,528.63844,VfL Wolfsburg,5.7,3.13,6.0,51.03
+Germany DFB Pokal,SC Freiburg vs VfL Wolfsburg,2026-10-28T17:00:00.000Z,528.63844,Draw,4.9,9.0,5.0,3.0
+Germany DFB Pokal,SC Paderborn 07 vs VfB Stuttgart,2026-10-28T17:00:00.000Z,912.85194,SC Paderborn 07,5.7,29.29,6.0,205.53
+Germany DFB Pokal,SC Paderborn 07 vs VfB Stuttgart,2026-10-28T17:00:00.000Z,912.85194,VfB Stuttgart,1.6,651.97,1.61,26.01
+Germany DFB Pokal,SC Paderborn 07 vs VfB Stuttgart,2026-10-28T17:00:00.000Z,912.85194,Draw,4.7,191.27,5.0,24.03
+Germany DFB Pokal,SSV Jeddeloh vs Hertha BSC,2026-10-28T17:00:00.000Z,1110.87848,SSV Jeddeloh,28.0,15.82,36.0,51.43
+Germany DFB Pokal,SSV Jeddeloh vs Hertha BSC,2026-10-28T17:00:00.000Z,1110.87848,Hertha BSC,1.08,3.0,1.09,506.25
+Germany DFB Pokal,SSV Jeddeloh vs Hertha BSC,2026-10-28T17:00:00.000Z,1110.87848,Draw,19.5,21.73,26.0,8.48
+Egypt Premier League,Zamalek vs Al-Mokawloon al-Arab,2026-10-28T17:00:00.000Z,0.0,Zamalek,1.95,38.02,2.02,34.01
+Egypt Premier League,Zamalek vs Al-Mokawloon al-Arab,2026-10-28T17:00:00.000Z,0.0,Al-Mokawloon al-Arab,4.9,102.56,5.2,15.01
+Egypt Premier League,Zamalek vs Al-Mokawloon al-Arab,2026-10-28T17:00:00.000Z,0.0,Draw,3.2,66.64,3.45,31.02
+Norway NM Cupen,Åsane vs Hødd,2026-10-28T17:00:00.000Z,0.0,Åsane,2.26,5.63,2.62,4.84
+Norway NM Cupen,Åsane vs Hødd,2026-10-28T17:00:00.000Z,0.0,Hødd,2.56,5.36,3.05,4.17
+Norway NM Cupen,Åsane vs Hødd,2026-10-28T17:00:00.000Z,0.0,Draw,3.95,3.22,5.2,2.44
+Italy Serie A,AC Milan vs Bologna,2026-10-28T17:30:00.000Z,7745.08556,AC Milan,1.76,551.47,1.77,231.0
+Italy Serie A,AC Milan vs Bologna,2026-10-28T17:30:00.000Z,7745.08556,Bologna,5.4,14.04,5.5,507.27
+Italy Serie A,AC Milan vs Bologna,2026-10-28T17:30:00.000Z,7745.08556,Draw,4.0,498.76,4.1,752.31
+Italy Serie A,Parma vs Udinese,2026-10-28T17:30:00.000Z,22435.19109,Parma,2.98,149.0,3.05,1661.54
+Italy Serie A,Parma vs Udinese,2026-10-28T17:30:00.000Z,22435.19109,Udinese,2.82,221.81,2.84,4.0
+Italy Serie A,Parma vs Udinese,2026-10-28T17:30:00.000Z,22435.19109,Draw,3.15,4836.37,3.2,7824.84
+Italy Serie A,Venezia vs Internazionale,2026-10-28T17:30:00.000Z,15977.1218,Venezia,8.8,86.32,9.0,161.75
+Italy Serie A,Venezia vs Internazionale,2026-10-28T17:30:00.000Z,15977.1218,Internazionale,1.39,3738.65,1.4,3259.73
+Italy Serie A,Venezia vs Internazionale,2026-10-28T17:30:00.000Z,15977.1218,Draw,5.9,152.04,6.0,312.45
+UEFA Women's Champions League,Chelsea Women vs AS Roma Women,2026-10-28T17:45:00.000Z,0.0,Chelsea Women,1.14,676.94,1.16,3.0
+UEFA Women's Champions League,Chelsea Women vs AS Roma Women,2026-10-28T17:45:00.000Z,0.0,AS Roma Women,17.5,13.0,20.0,3.0
+UEFA Women's Champions League,Chelsea Women vs AS Roma Women,2026-10-28T17:45:00.000Z,0.0,Draw,11.0,10.42,13.0,4.0
+UEFA Women's Champions League,FC Bayern München Women vs Real Madrid Women,2026-10-28T17:45:00.000Z,0.0,FC Bayern München Women,1.56,12.0,1.62,49.14
+UEFA Women's Champions League,FC Bayern München Women vs Real Madrid Women,2026-10-28T17:45:00.000Z,0.0,Real Madrid Women,5.6,15.21,6.2,51.01
+UEFA Women's Champions League,FC Bayern München Women vs Real Madrid Women,2026-10-28T17:45:00.000Z,0.0,Draw,4.8,31.59,5.3,40.11
+UEFA Women's Champions League,Servette FC Women vs Oud-Heuverlee Leuven Women,2026-10-28T17:45:00.000Z,0.0,Servette FC Women,3.35,31.96,3.65,49.07
+UEFA Women's Champions League,Servette FC Women vs Oud-Heuverlee Leuven Women,2026-10-28T17:45:00.000Z,0.0,Oud-Heuverlee Leuven Women,2.0,52.17,2.14,99.68
+UEFA Women's Champions League,Servette FC Women vs Oud-Heuverlee Leuven Women,2026-10-28T17:45:00.000Z,0.0,Draw,4.1,45.62,4.5,20.01
+Spain Copa del Rey,Anaitasuna FT vs Deportivo Alaves,2026-10-28T18:00:00.000Z,356.56688,Anaitasuna FT,6.0,2.0,,
+Spain Copa del Rey,Anaitasuna FT vs Deportivo Alaves,2026-10-28T18:00:00.000Z,356.56688,Deportivo Alaves,1.04,242.7,1.19,20.0
+Spain Copa del Rey,Anaitasuna FT vs Deportivo Alaves,2026-10-28T18:00:00.000Z,356.56688,Draw,1.12,6.0,,
+Argentina Liga Profesional de Fútbol Reserves,Banfield Reserves vs Argentinos Juniors Reserves,2026-10-28T18:00:00.000Z,0.0,Banfield Reserves,,,,
+Argentina Liga Profesional de Fútbol Reserves,Banfield Reserves vs Argentinos Juniors Reserves,2026-10-28T18:00:00.000Z,0.0,Argentinos Juniors Reserves,,,,
+Argentina Liga Profesional de Fútbol Reserves,Banfield Reserves vs Argentinos Juniors Reserves,2026-10-28T18:00:00.000Z,0.0,Draw,,,,
+Spain Copa del Rey,CD Pamplona vs SD Eibar,2026-10-28T18:00:00.000Z,0.0,CD Pamplona,17.0,25.01,23.0,79.08
+Spain Copa del Rey,CD Pamplona vs SD Eibar,2026-10-28T18:00:00.000Z,0.0,SD Eibar,1.18,16.45,1.25,16.06
+Spain Copa del Rey,CD Pamplona vs SD Eibar,2026-10-28T18:00:00.000Z,0.0,Draw,7.0,2.77,10.0,1.87
+Spain Copa del Rey,CD Tarancon vs Levante UD,2026-10-28T18:00:00.000Z,310.20008,CD Tarancon,22.0,19.15,28.0,4.0
+Spain Copa del Rey,CD Tarancon vs Levante UD,2026-10-28T18:00:00.000Z,310.20008,Levante UD,1.15,81.06,1.17,210.09
+Spain Copa del Rey,CD Tarancon vs Levante UD,2026-10-28T18:00:00.000Z,310.20008,Draw,10.0,3.67,12.0,29.23
+Spain Copa del Rey,Club Portugalete vs Real Unión,2026-10-28T18:00:00.000Z,0.0,Club Portugalete,2.96,8.05,3.45,6.9
+Spain Copa del Rey,Club Portugalete vs Real Unión,2026-10-28T18:00:00.000Z,0.0,Real Unión,2.34,10.34,2.74,8.68
+Spain Copa del Rey,Club Portugalete vs Real Unión,2026-10-28T18:00:00.000Z,0.0,Draw,3.1,7.67,3.75,6.33
+Spain Copa del Rey,Coruxo CF vs Zamora CF,2026-10-28T18:00:00.000Z,213.30262,Coruxo CF,3.45,6.49,4.4,4.84
+Spain Copa del Rey,Coruxo CF vs Zamora CF,2026-10-28T18:00:00.000Z,213.30262,Zamora CF,2.1,10.16,2.42,8.82
+Spain Copa del Rey,Coruxo CF vs Zamora CF,2026-10-28T18:00:00.000Z,213.30262,Draw,3.1,6.89,3.7,5.76
+Sweden Allsvenskan,Degerfors IF vs Västerås SK FK,2026-10-28T18:00:00.000Z,2.36502,Degerfors IF,2.56,3.0,2.62,36.32
+Sweden Allsvenskan,Degerfors IF vs Västerås SK FK,2026-10-28T18:00:00.000Z,2.36502,Västerås SK FK,2.98,3.0,3.05,4.01
+Sweden Allsvenskan,Degerfors IF vs Västerås SK FK,2026-10-28T18:00:00.000Z,2.36502,Draw,3.5,22.06,3.6,2.01
+Sweden Allsvenskan,Halmstads BK vs Malmö FF,2026-10-28T18:00:00.000Z,50.377,Halmstads BK,4.9,3.0,5.0,15.06
+Sweden Allsvenskan,Halmstads BK vs Malmö FF,2026-10-28T18:00:00.000Z,50.377,Malmö FF,1.73,43.16,1.74,4.0
+Sweden Allsvenskan,Halmstads BK vs Malmö FF,2026-10-28T18:00:00.000Z,50.377,Draw,4.4,3.0,4.5,14.04
+Sweden Allsvenskan,IF Brommapojkarna vs BK Häcken,2026-10-28T18:00:00.000Z,82.53182,IF Brommapojkarna,4.6,3.01,4.9,136.14
+Sweden Allsvenskan,IF Brommapojkarna vs BK Häcken,2026-10-28T18:00:00.000Z,82.53182,BK Häcken,1.74,15.01,1.76,28.05
+Sweden Allsvenskan,IF Brommapojkarna vs BK Häcken,2026-10-28T18:00:00.000Z,82.53182,Draw,4.4,86.53,4.7,19.06
+Sweden Allsvenskan,IFK Göteborg vs Djurgårdens IF,2026-10-28T18:00:00.000Z,40.7844,IFK Göteborg,3.45,214.43,3.75,259.01
+Sweden Allsvenskan,IFK Göteborg vs Djurgårdens IF,2026-10-28T18:00:00.000Z,40.7844,Djurgårdens IF,2.04,404.6,2.12,4.0
+Sweden Allsvenskan,IFK Göteborg vs Djurgårdens IF,2026-10-28T18:00:00.000Z,40.7844,Draw,3.95,318.26,4.2,5.01
+Spain Copa del Rey,Peña Sport vs Huesca,2026-10-28T18:00:00.000Z,0.0,Peña Sport,4.5,6.14,5.3,5.11
+Spain Copa del Rey,Peña Sport vs Huesca,2026-10-28T18:00:00.000Z,0.0,Huesca,1.76,15.68,1.95,13.89
+Spain Copa del Rey,Peña Sport vs Huesca,2026-10-28T18:00:00.000Z,0.0,Draw,3.45,7.95,4.1,36.73
+Italy Serie B,Pisa vs Palermo,2026-10-28T18:00:00.000Z,594.52391,Pisa,2.42,3.77,2.44,6.0
+Italy Serie B,Pisa vs Palermo,2026-10-28T18:00:00.000Z,594.52391,Palermo,3.3,9.01,3.35,66.75
+Italy Serie B,Pisa vs Palermo,2026-10-28T18:00:00.000Z,594.52391,Draw,3.45,114.06,3.5,46.07
+Norway NM Cupen,Tromsø vs Haugesund,2026-10-28T18:00:00.000Z,0.0,Tromsø,1.19,19.27,1.22,45.02
+Norway NM Cupen,Tromsø vs Haugesund,2026-10-28T18:00:00.000Z,0.0,Haugesund,15.5,30.6,20.0,1.78
+Norway NM Cupen,Tromsø vs Haugesund,2026-10-28T18:00:00.000Z,0.0,Draw,8.2,5.79,9.6,2.38
+Spain Copa del Rey,UD Poblense vs AD Ceuta FC,2026-10-28T18:00:00.000Z,2498.33455,UD Poblense,5.5,79.14,5.8,4.0
+Spain Copa del Rey,UD Poblense vs AD Ceuta FC,2026-10-28T18:00:00.000Z,2498.33455,AD Ceuta FC,1.66,2.0,1.7,71.31
+Spain Copa del Rey,UD Poblense vs AD Ceuta FC,2026-10-28T18:00:00.000Z,2498.33455,Draw,4.3,53.3,4.5,3.0
+Spain Copa del Rey,Utebo vs Sabadell,2026-10-28T18:00:00.000Z,0.0,Utebo,5.1,3.81,7.4,2.54
+Spain Copa del Rey,Utebo vs Sabadell,2026-10-28T18:00:00.000Z,0.0,Sabadell,1.6,11.83,1.77,10.69
+Spain Copa del Rey,Utebo vs Sabadell,2026-10-28T18:00:00.000Z,0.0,Draw,3.8,5.19,5.0,3.78
+Peru Liga 1,FC Cajamarca vs Universidad Técnica de Cajamarca,2026-10-28T18:15:00.000Z,254.56478,FC Cajamarca,2.06,3.0,2.1,16.01
+Peru Liga 1,FC Cajamarca vs Universidad Técnica de Cajamarca,2026-10-28T18:15:00.000Z,254.56478,Universidad Técnica de Cajamarca,3.75,4.0,4.0,43.7
+Peru Liga 1,FC Cajamarca vs Universidad Técnica de Cajamarca,2026-10-28T18:15:00.000Z,254.56478,Draw,3.75,11.01,4.0,16.0
+Spain Copa del Rey,Alcoyano vs Real Mallorca,2026-10-28T19:00:00.000Z,0.0,Alcoyano,5.9,5.51,7.0,3.91
+Spain Copa del Rey,Alcoyano vs Real Mallorca,2026-10-28T19:00:00.000Z,0.0,Real Mallorca,1.64,21.71,1.75,18.26
+Spain Copa del Rey,Alcoyano vs Real Mallorca,2026-10-28T19:00:00.000Z,0.0,Draw,3.65,4.35,4.2,3.0
+Spain Copa del Rey,Calvo Sotelo Puertollano CF vs Albacete Balompié,2026-10-28T19:00:00.000Z,0.0,Calvo Sotelo Puertollano CF,4.9,20.23,7.0,26.62
+Spain Copa del Rey,Calvo Sotelo Puertollano CF vs Albacete Balompié,2026-10-28T19:00:00.000Z,0.0,Albacete Balompié,1.58,62.38,1.73,56.97
+Spain Copa del Rey,Calvo Sotelo Puertollano CF vs Albacete Balompié,2026-10-28T19:00:00.000Z,0.0,Draw,4.1,24.04,5.5,17.92
+Italy Serie B,Carrarese vs Arezzo,2026-10-28T19:00:00.000Z,31.37217,Carrarese,2.26,2.0,2.3,2.0
+Italy Serie B,Carrarese vs Arezzo,2026-10-28T19:00:00.000Z,31.37217,Arezzo,3.8,2.0,4.0,48.04
+Italy Serie B,Carrarese vs Arezzo,2026-10-28T19:00:00.000Z,31.37217,Draw,3.25,2.0,3.35,4.01
+Spain Copa del Rey,CD Badajoz vs CD Tenerife,2026-10-28T19:00:00.000Z,0.0,CD Badajoz,5.6,7.72,6.4,4.07
+Spain Copa del Rey,CD Badajoz vs CD Tenerife,2026-10-28T19:00:00.000Z,0.0,CD Tenerife,1.64,27.3,1.71,26.02
+Spain Copa del Rey,CD Badajoz vs CD Tenerife,2026-10-28T19:00:00.000Z,0.0,Draw,3.95,6.7,4.5,11.93
+Spain Copa del Rey,CD Covadonga vs Real Valladolid,2026-10-28T19:00:00.000Z,3.08477,CD Covadonga,10.5,9.44,36.0,2.75
+Spain Copa del Rey,CD Covadonga vs Real Valladolid,2026-10-28T19:00:00.000Z,3.08477,Real Valladolid,1.24,80.05,1.33,141.11
+Spain Copa del Rey,CD Covadonga vs Real Valladolid,2026-10-28T19:00:00.000Z,3.08477,Draw,5.7,17.57,8.8,11.28
+Spain Copa del Rey,CD Numancia vs Real Oviedo,2026-10-28T19:00:00.000Z,5.36736,CD Numancia,3.55,156.86,4.6,7.47
+Spain Copa del Rey,CD Numancia vs Real Oviedo,2026-10-28T19:00:00.000Z,5.36736,Real Oviedo,1.95,421.05,2.26,29.49
+Spain Copa del Rey,CD Numancia vs Real Oviedo,2026-10-28T19:00:00.000Z,5.36736,Draw,3.3,10.43,4.0,8.64
+Spain Copa del Rey,CP Mijas Las Lagunas vs Real Jaén,2026-10-28T19:00:00.000Z,4.40938,CP Mijas Las Lagunas,3.3,4.59,4.1,3.88
+Spain Copa del Rey,CP Mijas Las Lagunas vs Real Jaén,2026-10-28T19:00:00.000Z,4.40938,Real Jaén,2.02,7.88,2.26,7.58
+Spain Copa del Rey,CP Mijas Las Lagunas vs Real Jaén,2026-10-28T19:00:00.000Z,4.40938,Draw,3.55,4.74,4.2,3.5
+Italy Serie B,Juve Stabia vs Hellas Verona,2026-10-28T19:00:00.000Z,101.659,Juve Stabia,2.82,12.62,2.92,43.05
+Italy Serie B,Juve Stabia vs Hellas Verona,2026-10-28T19:00:00.000Z,101.659,Hellas Verona,2.68,74.02,2.8,6.01
+Italy Serie B,Juve Stabia vs Hellas Verona,2026-10-28T19:00:00.000Z,101.659,Draw,3.4,171.99,3.5,25.67
+Spain Copa del Rey,SD Amorebieta vs UD Logroñés,2026-10-28T19:00:00.000Z,0.0,SD Amorebieta,4.2,16.24,4.7,15.72
+Spain Copa del Rey,SD Amorebieta vs UD Logroñés,2026-10-28T19:00:00.000Z,0.0,UD Logroñés,1.82,40.4,1.96,13.77
+Spain Copa del Rey,SD Amorebieta vs UD Logroñés,2026-10-28T19:00:00.000Z,0.0,Draw,3.7,8.08,4.2,4.0
+Spain Copa del Rey,CD Cieza vs Granada CF,2026-10-28T19:30:00.000Z,0.0,CD Cieza,6.6,15.84,8.4,16.59
+Spain Copa del Rey,CD Cieza vs Granada CF,2026-10-28T19:30:00.000Z,0.0,Granada CF,1.49,70.2,1.56,67.05
+Spain Copa del Rey,CD Cieza vs Granada CF,2026-10-28T19:30:00.000Z,0.0,Draw,4.6,30.29,5.7,18.43
+Spain Copa del Rey,Deportiva Minera vs FC Cartagena,2026-10-28T19:30:00.000Z,1.54827,Deportiva Minera,3.8,3.0,4.3,5.52
+Spain Copa del Rey,Deportiva Minera vs FC Cartagena,2026-10-28T19:30:00.000Z,1.54827,FC Cartagena,2.04,21.82,2.18,12.74
+Spain Copa del Rey,Deportiva Minera vs FC Cartagena,2026-10-28T19:30:00.000Z,1.54827,Draw,3.35,7.06,3.85,9.79
+Spain Copa del Rey,Gimnastica Torrelavega vs UD Ourense,2026-10-28T19:30:00.000Z,6.58081,Gimnastica Torrelavega,3.05,7.49,3.55,6.45
+Spain Copa del Rey,Gimnastica Torrelavega vs UD Ourense,2026-10-28T19:30:00.000Z,6.58081,UD Ourense,2.26,10.11,2.62,8.72
+Spain Copa del Rey,Gimnastica Torrelavega vs UD Ourense,2026-10-28T19:30:00.000Z,6.58081,Draw,3.5,20.03,3.85,5.93
+England League Cup,Manchester City vs Brighton & Hove Albion,2026-10-28T19:30:00.000Z,2390.74966,Manchester City,1.73,4.0,1.74,12.0
+England League Cup,Manchester City vs Brighton & Hove Albion,2026-10-28T19:30:00.000Z,2390.74966,Brighton & Hove Albion,4.8,48.63,4.9,46.02
+England League Cup,Manchester City vs Brighton & Hove Albion,2026-10-28T19:30:00.000Z,2390.74966,Draw,4.5,7.01,4.6,3.0
+Spain Copa del Rey,Reus FC Reddis vs Barakaldo,2026-10-28T19:30:00.000Z,0.0,Reus FC Reddis,3.9,6.12,4.8,4.95
+Spain Copa del Rey,Reus FC Reddis vs Barakaldo,2026-10-28T19:30:00.000Z,0.0,Barakaldo,1.91,8.76,2.16,11.07
+Spain Copa del Rey,Reus FC Reddis vs Barakaldo,2026-10-28T19:30:00.000Z,0.0,Draw,3.25,7.53,3.9,6.12
+Scotland Premiership,Aberdeen vs Falkirk,2026-10-28T19:45:00.000Z,674.83723,Aberdeen,2.18,57.11,2.24,100.22
+Scotland Premiership,Aberdeen vs Falkirk,2026-10-28T19:45:00.000Z,674.83723,Falkirk,3.6,5.01,3.7,183.27
+Scotland Premiership,Aberdeen vs Falkirk,2026-10-28T19:45:00.000Z,674.83723,Draw,3.55,352.68,3.75,3.0
+England League Cup,AFC Bournemouth vs Aston Villa,2026-10-28T19:45:00.000Z,4036.10538,AFC Bournemouth,2.34,179.18,2.38,25.01
+England League Cup,AFC Bournemouth vs Aston Villa,2026-10-28T19:45:00.000Z,4036.10538,Aston Villa,3.1,109.21,3.2,4.01
+England League Cup,AFC Bournemouth vs Aston Villa,2026-10-28T19:45:00.000Z,4036.10538,Draw,3.7,108.51,3.85,26.02
+Germany DFB Pokal,Bayer 04 Leverkusen vs 1. FC Nürnberg,2026-10-28T19:45:00.000Z,918.45426,Bayer 04 Leverkusen,1.18,507.65,1.21,179.06
+Germany DFB Pokal,Bayer 04 Leverkusen vs 1. FC Nürnberg,2026-10-28T19:45:00.000Z,918.45426,1. FC Nürnberg,16.0,29.65,18.5,15.01
+Germany DFB Pokal,Bayer 04 Leverkusen vs 1. FC Nürnberg,2026-10-28T19:45:00.000Z,918.45426,Draw,8.8,15.59,9.8,7.01
+England National League,Carlisle United vs Harrogate Town,2026-10-28T19:45:00.000Z,3.40252,Carlisle United,2.1,4.0,2.12,4.0
+England National League,Carlisle United vs Harrogate Town,2026-10-28T19:45:00.000Z,3.40252,Harrogate Town,3.4,24.02,3.6,12.62
+England National League,Carlisle United vs Harrogate Town,2026-10-28T19:45:00.000Z,3.40252,Draw,4.0,3.0,4.2,2.0
+Scotland Premiership,Celtic vs Dundee United,2026-10-28T19:45:00.000Z,1005.57247,Celtic,1.28,270.77,1.3,133.03
+Scotland Premiership,Celtic vs Dundee United,2026-10-28T19:45:00.000Z,1005.57247,Dundee United,11.0,6.0,12.0,20.76
+Scotland Premiership,Celtic vs Dundee United,2026-10-28T19:45:00.000Z,1005.57247,Draw,7.2,16.0,7.4,5.0
+Scotland Premiership,Dundee vs Kilmarnock,2026-10-28T19:45:00.000Z,505.86739,Dundee,2.0,536.58,2.04,3.47
+Scotland Premiership,Dundee vs Kilmarnock,2026-10-28T19:45:00.000Z,505.86739,Kilmarnock,3.7,109.09,3.95,113.32
+Scotland Premiership,Dundee vs Kilmarnock,2026-10-28T19:45:00.000Z,505.86739,Draw,3.95,5.93,4.1,3.0
+Germany DFB Pokal,FC Bayern München vs 1. FC Magdeburg,2026-10-28T19:45:00.000Z,382.50753,FC Bayern München,1.06,5257.31,1.07,113.03
+Germany DFB Pokal,FC Bayern München vs 1. FC Magdeburg,2026-10-28T19:45:00.000Z,382.50753,1. FC Magdeburg,44.0,2.0,48.0,2.0
+Germany DFB Pokal,FC Bayern München vs 1. FC Magdeburg,2026-10-28T19:45:00.000Z,382.50753,Draw,22.0,13.01,24.0,2.0
+England National League,Forest Green Rovers vs Eastleigh,2026-10-28T19:45:00.000Z,0.0,Forest Green Rovers,1.57,53.09,1.64,15.01
+England National League,Forest Green Rovers vs Eastleigh,2026-10-28T19:45:00.000Z,0.0,Eastleigh,5.4,13.01,6.0,11.27
+England National League,Forest Green Rovers vs Eastleigh,2026-10-28T19:45:00.000Z,0.0,Draw,4.8,3.0,5.0,4.0
+England League Cup,Fulham vs Crystal Palace,2026-10-28T19:45:00.000Z,1848.0153,Fulham,1.91,2.0,1.94,17.01
+England League Cup,Fulham vs Crystal Palace,2026-10-28T19:45:00.000Z,1848.0153,Crystal Palace,4.3,9.3,4.4,240.63
+England League Cup,Fulham vs Crystal Palace,2026-10-28T19:45:00.000Z,1848.0153,Draw,4.0,435.34,4.2,22.02
+Italy Serie A,Genoa vs Juventus,2026-10-28T19:45:00.000Z,2140.35618,Genoa,5.8,55.03,6.0,620.3
+Italy Serie A,Genoa vs Juventus,2026-10-28T19:45:00.000Z,2140.35618,Juventus,1.74,145.07,1.75,140.28
+Italy Serie A,Genoa vs Juventus,2026-10-28T19:45:00.000Z,2140.35618,Draw,3.9,119.06,3.95,430.73
+Germany DFB Pokal,Hannover 96 vs 1. FC Kaiserslautern,2026-10-28T19:45:00.000Z,148.45671,Hannover 96,2.38,9.01,2.5,71.91
+Germany DFB Pokal,Hannover 96 vs 1. FC Kaiserslautern,2026-10-28T19:45:00.000Z,148.45671,1. FC Kaiserslautern,2.86,45.12,3.05,58.07
+Germany DFB Pokal,Hannover 96 vs 1. FC Kaiserslautern,2026-10-28T19:45:00.000Z,148.45671,Draw,3.85,42.36,4.0,2.0
+Germany DFB Pokal,Holstein Kiel vs 1899 Hoffenheim,2026-10-28T19:45:00.000Z,1.98552,Holstein Kiel,6.2,10.01,6.8,72.51
+Germany DFB Pokal,Holstein Kiel vs 1899 Hoffenheim,2026-10-28T19:45:00.000Z,1.98552,1899 Hoffenheim,1.49,229.55,1.53,62.05
+Germany DFB Pokal,Holstein Kiel vs 1899 Hoffenheim,2026-10-28T19:45:00.000Z,1.98552,Draw,5.2,18.01,5.6,17.01
+Italy Serie A,Monza vs Napoli,2026-10-28T19:45:00.000Z,5685.05042,Monza,4.7,318.61,4.8,93.85
+Italy Serie A,Monza vs Napoli,2026-10-28T19:45:00.000Z,5685.05042,Napoli,1.8,185.59,1.81,71.05
+Italy Serie A,Monza vs Napoli,2026-10-28T19:45:00.000Z,5685.05042,Draw,4.2,91.92,4.3,1037.29
+Scotland Premiership,St Johnstone vs Motherwell,2026-10-28T19:45:00.000Z,167.38863,St Johnstone,2.54,2.0,2.64,2.0
+Scotland Premiership,St Johnstone vs Motherwell,2026-10-28T19:45:00.000Z,167.38863,Motherwell,2.88,26.02,3.0,1.7
+Scotland Premiership,St Johnstone vs Motherwell,2026-10-28T19:45:00.000Z,167.38863,Draw,3.5,363.66,3.6,2.0
+Scotland Premiership,St Mirren vs Hibernian,2026-10-28T19:45:00.000Z,391.03986,St Mirren,3.4,33.02,3.55,4.0
+Scotland Premiership,St Mirren vs Hibernian,2026-10-28T19:45:00.000Z,391.03986,Hibernian,2.16,365.04,2.22,33.92
+Scotland Premiership,St Mirren vs Hibernian,2026-10-28T19:45:00.000Z,391.03986,Draw,3.8,11.01,3.95,166.01
+England League Cup,Sunderland vs Brentford,2026-10-28T19:45:00.000Z,1739.88381,Sunderland,3.65,3.0,3.8,211.92
+England League Cup,Sunderland vs Brentford,2026-10-28T19:45:00.000Z,1739.88381,Brentford,2.12,2.0,2.14,16.01
+England League Cup,Sunderland vs Brentford,2026-10-28T19:45:00.000Z,1739.88381,Draw,3.8,2.0,3.9,14.02
+England National League,Sutton United vs Aldershot Town,2026-10-28T19:45:00.000Z,0.0,Sutton United,1.94,11.01,1.99,8.0
+England National League,Sutton United vs Aldershot Town,2026-10-28T19:45:00.000Z,0.0,Aldershot Town,4.0,26.38,4.5,13.65
+England National League,Sutton United vs Aldershot Town,2026-10-28T19:45:00.000Z,0.0,Draw,3.75,28.35,4.1,38.02
+UEFA Women's Champions League,Arsenal Women vs S.L. Benfica Women,2026-10-28T20:00:00.000Z,0.0,Arsenal Women,1.22,241.82,1.25,112.48
+UEFA Women's Champions League,Arsenal Women vs S.L. Benfica Women,2026-10-28T20:00:00.000Z,0.0,S.L. Benfica Women,13.5,41.03,16.0,8.19
+UEFA Women's Champions League,Arsenal Women vs S.L. Benfica Women,2026-10-28T20:00:00.000Z,0.0,Draw,7.8,21.66,8.6,2.0
+Spain Copa del Rey,Artístico Navalcarnero vs Real Betis,2026-10-28T20:00:00.000Z,140.65209,Artístico Navalcarnero,18.5,25.88,25.0,1.72
+Spain Copa del Rey,Artístico Navalcarnero vs Real Betis,2026-10-28T20:00:00.000Z,140.65209,Real Betis,1.13,1081.02,1.18,34.27
+Spain Copa del Rey,Artístico Navalcarnero vs Real Betis,2026-10-28T20:00:00.000Z,140.65209,Draw,9.6,7.24,12.5,79.21
+Spain Copa del Rey,CFUE Tavernes de la Valldigna vs Valencia,2026-10-28T20:00:00.000Z,1.73451,CFUE Tavernes de la Valldigna,,,,
+Spain Copa del Rey,CFUE Tavernes de la Valldigna vs Valencia,2026-10-28T20:00:00.000Z,1.73451,Valencia,,,,
+Spain Copa del Rey,CFUE Tavernes de la Valldigna vs Valencia,2026-10-28T20:00:00.000Z,1.73451,Draw,,,,
+Scotland Premiership,Hearts vs Rangers,2026-10-28T20:00:00.000Z,1366.66543,Hearts,3.3,402.64,3.45,19.95
+Scotland Premiership,Hearts vs Rangers,2026-10-28T20:00:00.000Z,1366.66543,Rangers,2.16,76.31,2.18,40.37
+Scotland Premiership,Hearts vs Rangers,2026-10-28T20:00:00.000Z,1366.66543,Draw,4.0,25.07,4.2,49.15
+England League Cup,Liverpool vs Chelsea,2026-10-28T20:00:00.000Z,2678.59042,Liverpool,2.2,137.91,2.22,3.0
+England League Cup,Liverpool vs Chelsea,2026-10-28T20:00:00.000Z,2678.59042,Chelsea,3.15,254.78,3.2,42.63
+England League Cup,Liverpool vs Chelsea,2026-10-28T20:00:00.000Z,2678.59042,Draw,4.2,17.39,4.3,61.91
+UEFA Women's Champions League,Olympique Lyonnais Women vs Inter Milan Women,2026-10-28T20:00:00.000Z,0.0,Olympique Lyonnais Women,1.1,67.78,1.12,10.01
+UEFA Women's Champions League,Olympique Lyonnais Women vs Inter Milan Women,2026-10-28T20:00:00.000Z,0.0,Inter Milan Women,21.0,14.01,36.0,3.48
+UEFA Women's Champions League,Olympique Lyonnais Women vs Inter Milan Women,2026-10-28T20:00:00.000Z,0.0,Draw,13.0,9.8,17.0,11.91
+Spain Copa del Rey,Salamanca CF vs Celta de Vigo,2026-10-28T20:00:00.000Z,54.30727,Salamanca CF,10.0,10.13,13.0,18.71
+Spain Copa del Rey,Salamanca CF vs Celta de Vigo,2026-10-28T20:00:00.000Z,54.30727,Celta de Vigo,1.3,615.08,1.34,75.59
+Spain Copa del Rey,Salamanca CF vs Celta de Vigo,2026-10-28T20:00:00.000Z,54.30727,Draw,5.9,17.4,7.2,12.01
+Spain Copa del Rey,Xerez CD vs Cádiz,2026-10-28T20:00:00.000Z,1.74387,Xerez CD,4.6,3.0,5.1,5.01
+Spain Copa del Rey,Xerez CD vs Cádiz,2026-10-28T20:00:00.000Z,1.74387,Cádiz,1.73,14.5,1.81,40.78
+Spain Copa del Rey,Xerez CD vs Cádiz,2026-10-28T20:00:00.000Z,1.74387,Draw,4.2,47.09,4.6,15.22
+Peru Liga 1,Alianza Atletico vs Deportivo Garcilaso,2026-10-28T20:30:00.000Z,0.0,Alianza Atletico,1.79,41.6,1.87,9.39
+Peru Liga 1,Alianza Atletico vs Deportivo Garcilaso,2026-10-28T20:30:00.000Z,0.0,Deportivo Garcilaso,4.5,25.16,5.1,19.38
+Peru Liga 1,Alianza Atletico vs Deportivo Garcilaso,2026-10-28T20:30:00.000Z,0.0,Draw,3.75,24.53,4.3,17.37
+Portugal League Cup,FC Porto vs Académico de Viseu,2026-10-28T20:30:00.000Z,0.0,FC Porto,1.44,56.19,1.58,51.22
+Portugal League Cup,FC Porto vs Académico de Viseu,2026-10-28T20:30:00.000Z,0.0,Académico de Viseu,6.4,12.64,9.8,8.26
+Portugal League Cup,FC Porto vs Académico de Viseu,2026-10-28T20:30:00.000Z,0.0,Draw,4.3,18.81,5.7,14.19
+Brazil Serie A,Fluminense FC vs SC Internacional,2026-10-28T22:30:00.000Z,1.68526,Fluminense FC,1.91,4.0,1.98,8.01
+Brazil Serie A,Fluminense FC vs SC Internacional,2026-10-28T22:30:00.000Z,1.68526,SC Internacional,4.4,261.63,4.8,323.97
+Brazil Serie A,Fluminense FC vs SC Internacional,2026-10-28T22:30:00.000Z,1.68526,Draw,3.6,272.53,3.8,3.0
+Brazil Serie A,Red Bull Bragantino vs Chapecoense,2026-10-28T22:30:00.000Z,23.95117,Red Bull Bragantino,1.31,102.08,1.34,452.4
+Brazil Serie A,Red Bull Bragantino vs Chapecoense,2026-10-28T22:30:00.000Z,23.95117,Chapecoense,10.5,49.14,12.0,54.34
+Brazil Serie A,Red Bull Bragantino vs Chapecoense,2026-10-28T22:30:00.000Z,23.95117,Draw,6.0,237.98,6.8,66.82
+Brazil Serie A,Santos FC vs Palmeiras,2026-10-28T22:30:00.000Z,13.08052,Santos FC,3.3,8.01,3.55,69.3
+Brazil Serie A,Santos FC vs Palmeiras,2026-10-28T22:30:00.000Z,13.08052,Palmeiras,2.24,128.01,2.36,11.01
+Brazil Serie A,Santos FC vs Palmeiras,2026-10-28T22:30:00.000Z,13.08052,Draw,3.5,21.02,3.75,25.02
+US Major League Soccer,Charlotte FC vs CF Montreal,2026-10-28T23:30:00.000Z,94.50525,Charlotte FC,1.52,105.22,1.54,12.01
+US Major League Soccer,Charlotte FC vs CF Montreal,2026-10-28T23:30:00.000Z,94.50525,CF Montreal,6.2,5.01,6.6,20.01
+US Major League Soccer,Charlotte FC vs CF Montreal,2026-10-28T23:30:00.000Z,94.50525,Draw,5.0,17.05,5.4,124.3
+US Major League Soccer,Inter Miami CF vs FC Cincinnati,2026-10-28T23:30:00.000Z,51.16868,Inter Miami CF,1.52,14.01,1.54,80.85
+US Major League Soccer,Inter Miami CF vs FC Cincinnati,2026-10-28T23:30:00.000Z,51.16868,FC Cincinnati,5.8,3.01,6.2,115.34
+US Major League Soccer,Inter Miami CF vs FC Cincinnati,2026-10-28T23:30:00.000Z,51.16868,Draw,5.5,6.01,5.9,8.02
+US Major League Soccer,New England Revolution vs New York Red Bulls,2026-10-28T23:30:00.000Z,0.0,New England Revolution,1.99,36.03,2.04,9.01
+US Major League Soccer,New England Revolution vs New York Red Bulls,2026-10-28T23:30:00.000Z,0.0,New York Red Bulls,3.55,3.01,3.65,43.12
+US Major League Soccer,New England Revolution vs New York Red Bulls,2026-10-28T23:30:00.000Z,0.0,Draw,4.3,23.06,4.6,8.01
+US Major League Soccer,New York City FC vs Atlanta United FC,2026-10-28T23:30:00.000Z,17.64428,New York City FC,1.77,10.03,1.81,88.03
+US Major League Soccer,New York City FC vs Atlanta United FC,2026-10-28T23:30:00.000Z,17.64428,Atlanta United FC,4.5,7.01,4.7,107.21
+US Major League Soccer,New York City FC vs Atlanta United FC,2026-10-28T23:30:00.000Z,17.64428,Draw,4.4,72.78,4.6,18.05
+US Major League Soccer,Toronto FC vs DC United,2026-10-28T23:30:00.000Z,183.08338,Toronto FC,1.99,148.2,2.02,420.0
+US Major League Soccer,Toronto FC vs DC United,2026-10-28T23:30:00.000Z,183.08338,DC United,3.75,4.0,3.9,39.14
+US Major League Soccer,Toronto FC vs DC United,2026-10-28T23:30:00.000Z,183.08338,Draw,4.1,9.0,4.3,2.0
+US Major League Soccer,Austin FC vs Real Salt Lake,2026-10-29T00:30:00.000Z,21.50048,Austin FC,2.84,32.02,2.86,29.02
+US Major League Soccer,Austin FC vs Real Salt Lake,2026-10-29T00:30:00.000Z,21.50048,Real Salt Lake,2.46,90.25,2.5,54.03
+US Major League Soccer,Austin FC vs Real Salt Lake,2026-10-29T00:30:00.000Z,21.50048,Draw,4.0,5.0,4.1,22.06
+US Major League Soccer,Chicago Fire vs Orlando City,2026-10-29T00:30:00.000Z,156.28908,Chicago Fire,1.6,239.87,1.62,16.01
+US Major League Soccer,Chicago Fire vs Orlando City,2026-10-29T00:30:00.000Z,156.28908,Orlando City,5.1,4.0,5.4,120.44
+US Major League Soccer,Chicago Fire vs Orlando City,2026-10-29T00:30:00.000Z,156.28908,Draw,5.2,101.31,5.4,3.01
+Brazil Serie A,Clube do Remo vs Botafogo FR,2026-10-29T00:30:00.000Z,32.41289,Clube do Remo,2.86,5.0,2.98,7.0
+Brazil Serie A,Clube do Remo vs Botafogo FR,2026-10-29T00:30:00.000Z,32.41289,Botafogo FR,2.5,17.01,2.58,7.82
+Brazil Serie A,Clube do Remo vs Botafogo FR,2026-10-29T00:30:00.000Z,32.41289,Draw,3.65,49.13,3.9,32.02
+Brazil Serie A,Esporte Clube Bahia vs São Paulo,2026-10-29T00:30:00.000Z,6.8437,Esporte Clube Bahia,2.06,6.0,2.12,47.03
+Brazil Serie A,Esporte Clube Bahia vs São Paulo,2026-10-29T00:30:00.000Z,6.8437,São Paulo,3.75,31.03,4.0,57.41
+Brazil Serie A,Esporte Clube Bahia vs São Paulo,2026-10-29T00:30:00.000Z,6.8437,Draw,3.65,68.01,3.9,3.0
+US Major League Soccer,FC Dallas vs Columbus Crew,2026-10-29T00:30:00.000Z,3.31104,FC Dallas,2.14,19.01,2.18,6.02
+US Major League Soccer,FC Dallas vs Columbus Crew,2026-10-29T00:30:00.000Z,3.31104,Columbus Crew,3.3,3.0,3.4,17.01
+US Major League Soccer,FC Dallas vs Columbus Crew,2026-10-29T00:30:00.000Z,3.31104,Draw,4.1,5.01,4.3,19.01
+US Major League Soccer,Minnesota United vs Sporting Kansas City,2026-10-29T00:30:00.000Z,39.41757,Minnesota United,1.45,291.66,1.48,14.54
+US Major League Soccer,Minnesota United vs Sporting Kansas City,2026-10-29T00:30:00.000Z,39.41757,Sporting Kansas City,6.6,6.01,7.2,41.54
+US Major League Soccer,Minnesota United vs Sporting Kansas City,2026-10-29T00:30:00.000Z,39.41757,Draw,5.6,87.08,6.0,16.02
+US Major League Soccer,Nashville Soccer Club vs Philadelphia Union,2026-10-29T00:30:00.000Z,68.64771,Nashville Soccer Club,1.85,12.02,1.87,56.0
+US Major League Soccer,Nashville Soccer Club vs Philadelphia Union,2026-10-29T00:30:00.000Z,68.64771,Philadelphia Union,4.1,6.0,4.4,89.31
+US Major League Soccer,Nashville Soccer Club vs Philadelphia Union,2026-10-29T00:30:00.000Z,68.64771,Draw,4.3,2.0,4.5,14.04
+US Major League Soccer,Saint Louis City SC vs Portland Timbers,2026-10-29T00:30:00.000Z,0.0,Saint Louis City SC,1.78,4.0,1.82,262.29
+US Major League Soccer,Saint Louis City SC vs Portland Timbers,2026-10-29T00:30:00.000Z,0.0,Portland Timbers,4.2,41.52,4.5,84.76
+US Major League Soccer,Saint Louis City SC vs Portland Timbers,2026-10-29T00:30:00.000Z,0.0,Draw,4.5,175.63,4.8,2.0
+US Major League Soccer,San Jose Earthquakes vs Colorado Rapids,2026-10-29T02:30:00.000Z,29.05635,San Jose Earthquakes,2.28,4.0,2.32,5.01
+US Major League Soccer,San Jose Earthquakes vs Colorado Rapids,2026-10-29T02:30:00.000Z,29.05635,Colorado Rapids,3.2,258.95,3.25,3.0
+US Major League Soccer,San Jose Earthquakes vs Colorado Rapids,2026-10-29T02:30:00.000Z,29.05635,Draw,3.85,43.11,4.1,19.02
+US Major League Soccer,Seattle Sounders vs Houston Dynamo,2026-10-29T02:30:00.000Z,3.08949,Seattle Sounders,1.82,42.1,1.85,5.01
+US Major League Soccer,Seattle Sounders vs Houston Dynamo,2026-10-29T02:30:00.000Z,3.08949,Houston Dynamo,4.4,3.0,4.7,394.91
+US Major League Soccer,Seattle Sounders vs Houston Dynamo,2026-10-29T02:30:00.000Z,3.08949,Draw,4.2,2.0,4.3,4.0
+US Major League Soccer,Vancouver Whitecaps vs San Diego FC,2026-10-29T02:30:00.000Z,384.18502,Vancouver Whitecaps,1.46,7.7,1.49,508.77
+US Major League Soccer,Vancouver Whitecaps vs San Diego FC,2026-10-29T02:30:00.000Z,384.18502,San Diego FC,6.6,5.01,7.2,39.08
+US Major League Soccer,Vancouver Whitecaps vs San Diego FC,2026-10-29T02:30:00.000Z,384.18502,Draw,5.7,100.3,6.0,6.01
+Mexico Liga MX,Club América vs Club Tijuana,2026-10-29T03:00:00.000Z,32.33568,Club América,1.48,919.74,1.51,3.0
+Mexico Liga MX,Club América vs Club Tijuana,2026-10-29T03:00:00.000Z,32.33568,Club Tijuana,6.8,22.02,7.4,21.01
+Mexico Liga MX,Club América vs Club Tijuana,2026-10-29T03:00:00.000Z,32.33568,Draw,5.0,50.18,5.3,16.02
+Italy Serie A,Frosinone vs Lecce,2026-10-29T17:30:00.000Z,1520.32596,Frosinone,1.73,374.36,1.75,128.45
+Italy Serie A,Frosinone vs Lecce,2026-10-29T17:30:00.000Z,1520.32596,Lecce,5.1,27.01,5.2,22.4
+Italy Serie A,Frosinone vs Lecce,2026-10-29T17:30:00.000Z,1520.32596,Draw,4.3,329.07,4.4,245.06
+Sweden Allsvenskan,Hammarby IF vs IK Sirius,2026-10-29T17:30:00.000Z,1.40638,Hammarby IF,1.56,2.0,1.62,60.3
+Sweden Allsvenskan,Hammarby IF vs IK Sirius,2026-10-29T17:30:00.000Z,1.40638,IK Sirius,5.7,17.13,6.6,14.8
+Sweden Allsvenskan,Hammarby IF vs IK Sirius,2026-10-29T17:30:00.000Z,1.40638,Draw,4.8,4.0,4.9,3.0
+Sweden Allsvenskan,Kalmar FF vs GAIS,2026-10-29T18:00:00.000Z,6.09197,Kalmar FF,2.52,4.01,2.58,27.01
+Sweden Allsvenskan,Kalmar FF vs GAIS,2026-10-29T18:00:00.000Z,6.09197,GAIS,3.05,282.1,3.15,12.03
+Sweden Allsvenskan,Kalmar FF vs GAIS,2026-10-29T18:00:00.000Z,6.09197,Draw,3.45,3.0,3.55,3.0
+Sweden Allsvenskan,Örgryte IS vs Mjällby AIF,2026-10-29T18:00:00.000Z,18.88934,Örgryte IS,3.1,11.03,3.15,12.01
+Sweden Allsvenskan,Örgryte IS vs Mjällby AIF,2026-10-29T18:00:00.000Z,18.88934,Mjällby AIF,2.38,22.03,2.42,21.06
+Sweden Allsvenskan,Örgryte IS vs Mjällby AIF,2026-10-29T18:00:00.000Z,18.88934,Draw,3.75,9.02,3.85,5.0
+England League Cup,Everton vs Newcastle United,2026-10-29T19:45:00.000Z,203.27248,Everton,2.28,46.0,2.32,2.11
+England League Cup,Everton vs Newcastle United,2026-10-29T19:45:00.000Z,203.27248,Newcastle United,3.3,4.0,3.4,3.0
+England League Cup,Everton vs Newcastle United,2026-10-29T19:45:00.000Z,203.27248,Draw,3.7,3.01,3.8,3.0
+Italy Serie A,Fiorentina vs Atalanta,2026-10-29T19:45:00.000Z,5114.22315,Fiorentina,2.28,189.1,2.3,15.01
+Italy Serie A,Fiorentina vs Atalanta,2026-10-29T19:45:00.000Z,5114.22315,Atalanta,3.35,2.0,3.4,274.54
+Italy Serie A,Fiorentina vs Atalanta,2026-10-29T19:45:00.000Z,5114.22315,Draw,3.75,96.37,3.8,5.68
+Brazil Serie A,Atlético Mineiro vs Cruzeiro,2026-10-29T22:30:00.000Z,4.29703,Atlético Mineiro,2.44,81.1,2.64,36.81
+Brazil Serie A,Atlético Mineiro vs Cruzeiro,2026-10-29T22:30:00.000Z,4.29703,Cruzeiro,2.84,34.22,3.15,34.62
+Brazil Serie A,Atlético Mineiro vs Cruzeiro,2026-10-29T22:30:00.000Z,4.29703,Draw,3.55,123.15,3.75,9.01
+Brazil Serie A,Vasco da Gama vs Flamengo,2026-10-29T23:00:00.000Z,589.44262,Vasco da Gama,4.1,175.56,4.6,166.04
+Brazil Serie A,Vasco da Gama vs Flamengo,2026-10-29T23:00:00.000Z,589.44262,Flamengo,1.82,79.17,1.92,14.03
+Brazil Serie A,Vasco da Gama vs Flamengo,2026-10-29T23:00:00.000Z,589.44262,Draw,4.0,174.47,4.3,16.01
+Brazil Serie A,Grêmio FBPA vs Athlético Paranaense,2026-10-30T00:30:00.000Z,15.30549,Grêmio FBPA,2.52,3.26,2.64,151.11
+Brazil Serie A,Grêmio FBPA vs Athlético Paranaense,2026-10-30T00:30:00.000Z,15.30549,Athlético Paranaense,2.98,91.39,3.2,113.24
+Brazil Serie A,Grêmio FBPA vs Athlético Paranaense,2026-10-30T00:30:00.000Z,15.30549,Draw,3.45,10.01,3.65,5.0
+Australia A-League,Brisbane Roar vs Auckland FC,2026-10-30T09:00:00.000Z,0.27272,Brisbane Roar,2.96,41.26,3.2,129.94
+Australia A-League,Brisbane Roar vs Auckland FC,2026-10-30T09:00:00.000Z,0.27272,Auckland FC,2.46,168.25,2.64,46.24
+Australia A-League,Brisbane Roar vs Auckland FC,2026-10-30T09:00:00.000Z,0.27272,Draw,3.4,35.91,3.65,2.91
+Germany 2.Bundesliga,Arminia Bielefeld vs Eintracht Braunschweig,2026-10-30T17:30:00.000Z,0.0,Arminia Bielefeld,1.83,530.57,1.95,46.02
+Germany 2.Bundesliga,Arminia Bielefeld vs Eintracht Braunschweig,2026-10-30T17:30:00.000Z,0.0,Eintracht Braunschweig,4.1,21.61,5.1,17.36
+Germany 2.Bundesliga,Arminia Bielefeld vs Eintracht Braunschweig,2026-10-30T17:30:00.000Z,0.0,Draw,4.0,22.15,4.4,298.22
+Germany 2.Bundesliga,Energie Cottbus vs VfL Bochum,2026-10-30T17:30:00.000Z,0.0,Energie Cottbus,2.74,33.48,3.3,28.22
+Germany 2.Bundesliga,Energie Cottbus vs VfL Bochum,2026-10-30T17:30:00.000Z,0.0,VfL Bochum,2.42,319.74,2.6,130.18
+Germany 2.Bundesliga,Energie Cottbus vs VfL Bochum,2026-10-30T17:30:00.000Z,0.0,Draw,3.4,26.98,4.3,21.34
+France Ligue 1,Le Havre AC vs Paris Saint-Germain,2026-10-30T18:00:00.000Z,413.05336,Le Havre AC,12.0,68.4,13.0,9.57
+France Ligue 1,Le Havre AC vs Paris Saint-Germain,2026-10-30T18:00:00.000Z,413.05336,Paris Saint-Germain,1.26,50.14,1.27,95.05
+France Ligue 1,Le Havre AC vs Paris Saint-Germain,2026-10-30T18:00:00.000Z,413.05336,Draw,7.6,40.02,7.8,144.1
+France Ligue 1,OGC Nice vs Stade Rennais,2026-10-30T18:00:00.000Z,0.0,OGC Nice,2.82,263.86,2.96,225.56
+France Ligue 1,OGC Nice vs Stade Rennais,2026-10-30T18:00:00.000Z,0.0,Stade Rennais,2.46,319.06,2.56,296.5
+France Ligue 1,OGC Nice vs Stade Rennais,2026-10-30T18:00:00.000Z,0.0,Draw,3.85,227.46,4.0,58.23
+France Ligue 2,FC Metz vs Pau FC,2026-10-30T19:00:00.000Z,0.0,FC Metz,2.08,26.81,2.36,23.63
+France Ligue 2,FC Metz vs Pau FC,2026-10-30T19:00:00.000Z,0.0,Pau FC,3.15,17.7,3.75,14.87
+France Ligue 2,FC Metz vs Pau FC,2026-10-30T19:00:00.000Z,0.0,Draw,3.55,15.71,4.5,12.39
+France Ligue 2,FC Nantes vs Clermont Foot,2026-10-30T19:00:00.000Z,0.0,FC Nantes,1.44,909.53,1.54,400.2
+France Ligue 2,FC Nantes vs Clermont Foot,2026-10-30T19:00:00.000Z,0.0,Clermont Foot,6.8,69.0,9.8,286.4
+France Ligue 2,FC Nantes vs Clermont Foot,2026-10-30T19:00:00.000Z,0.0,Draw,3.85,140.42,5.9,400.2
+France Ligue 2,Grenoble Foot 38 vs Dijon FCO,2026-10-30T19:00:00.000Z,0.0,Grenoble Foot 38,3.3,15.19,4.0,12.54
+France Ligue 2,Grenoble Foot 38 vs Dijon FCO,2026-10-30T19:00:00.000Z,0.0,Dijon FCO,2.16,23.22,2.5,20.05
+France Ligue 2,Grenoble Foot 38 vs Dijon FCO,2026-10-30T19:00:00.000Z,0.0,Draw,3.15,15.92,3.95,12.69
+France Ligue 2,Rodez vs USL Dunkerque,2026-10-30T19:00:00.000Z,0.0,Rodez,2.02,424.02,2.22,28.73
+France Ligue 2,Rodez vs USL Dunkerque,2026-10-30T19:00:00.000Z,0.0,USL Dunkerque,3.25,19.64,3.65,17.47
+France Ligue 2,Rodez vs USL Dunkerque,2026-10-30T19:00:00.000Z,0.0,Draw,3.9,154.3,4.8,13.28
+France Ligue 2,Stade Lavallois vs US Boulogne,2026-10-30T19:00:00.000Z,0.0,Stade Lavallois,2.26,22.88,2.62,19.73
+France Ligue 2,Stade Lavallois vs US Boulogne,2026-10-30T19:00:00.000Z,0.0,US Boulogne,3.05,16.94,3.65,14.16
+France Ligue 2,Stade Lavallois vs US Boulogne,2026-10-30T19:00:00.000Z,0.0,Draw,3.25,15.9,4.0,12.92
+Germany Bundesliga,SV Elversberg vs 1. FSV Mainz 05,2026-10-30T19:30:00.000Z,1020.10437,SV Elversberg,3.2,153.13,3.3,514.46
+Germany Bundesliga,SV Elversberg vs 1. FSV Mainz 05,2026-10-30T19:30:00.000Z,1020.10437,1. FSV Mainz 05,2.2,6.0,2.24,167.28
+Germany Bundesliga,SV Elversberg vs 1. FSV Mainz 05,2026-10-30T19:30:00.000Z,1020.10437,Draw,4.1,306.29,4.2,82.27
+England League 2,Newport County vs Chesterfield,2026-10-30T19:45:00.000Z,0.0,Newport County,3.4,25.02,4.7,7.01
+England League 2,Newport County vs Chesterfield,2026-10-30T19:45:00.000Z,0.0,Chesterfield,1.91,23.91,2.24,12.55
+England League 2,Newport County vs Chesterfield,2026-10-30T19:45:00.000Z,0.0,Draw,3.4,11.01,4.9,8.34
+Belgium First Division A,Zulte Waregem vs Club Brugge,2026-10-30T19:45:00.000Z,0.0,Zulte Waregem,,,,
+Belgium First Division A,Zulte Waregem vs Club Brugge,2026-10-30T19:45:00.000Z,0.0,Club Brugge,,,,
+Belgium First Division A,Zulte Waregem vs Club Brugge,2026-10-30T19:45:00.000Z,0.0,Draw,4.2,156.33,11.0,3.53
+England Championship,Sheffield United vs Wrexham,2026-10-30T20:00:00.000Z,41.88551,Sheffield United,2.6,49.0,2.76,69.23
+England Championship,Sheffield United vs Wrexham,2026-10-30T20:00:00.000Z,41.88551,Wrexham,2.84,49.02,3.0,45.14
+England Championship,Sheffield United vs Wrexham,2026-10-30T20:00:00.000Z,41.88551,Draw,3.5,2.0,3.55,29.01
+France Ligue 1,Lille OSC vs RC Lens,2026-10-30T20:05:00.000Z,1008.25528,Lille OSC,2.58,23.02,2.64,3.43
+France Ligue 1,Lille OSC vs RC Lens,2026-10-30T20:05:00.000Z,1008.25528,RC Lens,2.86,46.6,2.88,13.0
+France Ligue 1,Lille OSC vs RC Lens,2026-10-30T20:05:00.000Z,1008.25528,Draw,3.7,16.06,3.75,4.01
+Portugal Primeira Liga,Casa Pia vs Sporting CP,2026-10-30T20:15:00.000Z,0.0,Casa Pia,11.0,51.03,15.0,6.86
+Portugal Primeira Liga,Casa Pia vs Sporting CP,2026-10-30T20:15:00.000Z,0.0,Sporting CP,1.27,78.04,1.34,79.32
+Portugal Primeira Liga,Casa Pia vs Sporting CP,2026-10-30T20:15:00.000Z,0.0,Draw,6.2,16.43,7.2,5.0
+Brazil Serie A,Corinthians vs Mirassol FC,2026-10-30T23:00:00.000Z,6.34729,Corinthians,1.75,47.49,1.9,42.88
+Brazil Serie A,Corinthians vs Mirassol FC,2026-10-30T23:00:00.000Z,6.34729,Mirassol FC,5.0,16.39,6.6,12.96
+Brazil Serie A,Corinthians vs Mirassol FC,2026-10-30T23:00:00.000Z,6.34729,Draw,3.6,48.92,4.3,18.94
+Mexico Liga MX,Atlético San Luis vs Atlas,2026-10-31T01:00:00.000Z,0.0,Atlético San Luis,2.64,41.9,3.05,36.27
+Mexico Liga MX,Atlético San Luis vs Atlas,2026-10-31T01:00:00.000Z,0.0,Atlas,2.6,42.55,2.98,37.12
+Mexico Liga MX,Atlético San Luis vs Atlas,2026-10-31T01:00:00.000Z,0.0,Draw,3.45,32.06,4.2,26.34
+Mexico Liga MX,FC Juárez vs Querétaro,2026-10-31T01:00:00.000Z,0.0,FC Juárez,2.96,31.94,3.5,27.02
+Mexico Liga MX,FC Juárez vs Querétaro,2026-10-31T01:00:00.000Z,0.0,Querétaro,2.3,41.11,2.58,37.33
+Mexico Liga MX,FC Juárez vs Querétaro,2026-10-31T01:00:00.000Z,0.0,Draw,3.55,26.64,4.3,21.99
+Mexico Liga MX,Puebla vs Pumas UNAM,2026-10-31T03:00:00.000Z,0.0,Puebla,2.96,36.73,3.5,31.06
+Mexico Liga MX,Puebla vs Pumas UNAM,2026-10-31T03:00:00.000Z,0.0,Pumas UNAM,2.36,36.03,2.66,41.47
+Mexico Liga MX,Puebla vs Pumas UNAM,2026-10-31T03:00:00.000Z,0.0,Draw,3.4,31.97,4.1,26.52
+England Premier League,Chelsea vs Manchester United,2026-10-31T12:30:00.000Z,6924.87645,Chelsea,1.86,78.05,1.87,192.19
+England Premier League,Chelsea vs Manchester United,2026-10-31T12:30:00.000Z,6924.87645,Manchester United,4.4,234.59,4.5,166.08
+England Premier League,Chelsea vs Manchester United,2026-10-31T12:30:00.000Z,6924.87645,Draw,4.1,635.85,4.2,5.01
+England Championship,Lincoln City vs Birmingham City,2026-10-31T12:30:00.000Z,26.98935,Lincoln City,3.5,6.01,3.75,8.47
+England Championship,Lincoln City vs Birmingham City,2026-10-31T12:30:00.000Z,26.98935,Birmingham City,2.14,46.29,2.26,5.0
+England Championship,Lincoln City vs Birmingham City,2026-10-31T12:30:00.000Z,26.98935,Draw,3.65,2.0,3.8,25.6
+England Championship,Norwich City vs Watford,2026-10-31T12:30:00.000Z,0.0,Norwich City,1.6,75.32,1.67,16.02
+England Championship,Norwich City vs Watford,2026-10-31T12:30:00.000Z,0.0,Watford,5.5,19.55,6.8,14.29
+England Championship,Norwich City vs Watford,2026-10-31T12:30:00.000Z,0.0,Draw,4.3,22.54,4.5,3.01
+England Championship,Stoke City vs Preston North End,2026-10-31T12:30:00.000Z,6.84294,Stoke City,1.79,13.0,1.87,55.33
+England Championship,Stoke City vs Preston North End,2026-10-31T12:30:00.000Z,6.84294,Preston North End,4.9,29.05,5.4,42.26
+England Championship,Stoke City vs Preston North End,2026-10-31T12:30:00.000Z,6.84294,Draw,3.75,61.33,4.0,4.01
+Spain La Liga,Levante UD vs Atlético de Madrid,2026-10-31T13:00:00.000Z,2006.26827,Levante UD,5.2,39.05,5.4,353.18
+Spain La Liga,Levante UD vs Atlético de Madrid,2026-10-31T13:00:00.000Z,2006.26827,Atlético de Madrid,1.65,148.81,1.66,14.01
+Spain La Liga,Levante UD vs Atlético de Madrid,2026-10-31T13:00:00.000Z,2006.26827,Draw,4.7,4.01,4.8,56.07
+Italy Serie A,Bologna vs Monza,2026-10-31T14:00:00.000Z,0.0,Bologna,1.78,98.47,1.88,148.15
+Italy Serie A,Bologna vs Monza,2026-10-31T14:00:00.000Z,0.0,Monza,4.5,30.3,5.3,19.29
+Italy Serie A,Bologna vs Monza,2026-10-31T14:00:00.000Z,0.0,Draw,3.85,26.56,4.4,23.34
+Germany Bundesliga,Bayer 04 Leverkusen vs VfB Stuttgart,2026-10-31T14:30:00.000Z,369.94403,Bayer 04 Leverkusen,1.87,37.03,1.92,203.42
+Germany Bundesliga,Bayer 04 Leverkusen vs VfB Stuttgart,2026-10-31T14:30:00.000Z,369.94403,VfB Stuttgart,3.75,217.15,4.0,26.02
+Germany Bundesliga,Bayer 04 Leverkusen vs VfB Stuttgart,2026-10-31T14:30:00.000Z,369.94403,Draw,4.5,32.03,4.7,42.14
+Germany Bundesliga,Borussia Mönchengladbach vs SC Paderborn 07,2026-10-31T14:30:00.000Z,244.17206,Borussia Mönchengladbach,2.02,41.04,2.08,97.16
+Germany Bundesliga,Borussia Mönchengladbach vs SC Paderborn 07,2026-10-31T14:30:00.000Z,244.17206,SC Paderborn 07,3.65,5.0,3.8,163.32
+Germany Bundesliga,Borussia Mönchengladbach vs SC Paderborn 07,2026-10-31T14:30:00.000Z,244.17206,Draw,4.0,169.17,4.1,54.08
+Germany Bundesliga,FC Augsburg vs SC Freiburg,2026-10-31T14:30:00.000Z,24.79502,FC Augsburg,3.2,49.04,3.35,45.03
+Germany Bundesliga,FC Augsburg vs SC Freiburg,2026-10-31T14:30:00.000Z,24.79502,SC Freiburg,2.2,107.36,2.28,162.05
+Germany Bundesliga,FC Augsburg vs SC Freiburg,2026-10-31T14:30:00.000Z,24.79502,Draw,3.95,35.03,4.0,60.09
+Germany Bundesliga,FC Schalke 04 vs RB Leipzig,2026-10-31T14:30:00.000Z,357.02349,FC Schalke 04,4.0,263.6,4.3,35.03
+Germany Bundesliga,FC Schalke 04 vs RB Leipzig,2026-10-31T14:30:00.000Z,357.02349,RB Leipzig,1.91,189.99,1.96,48.06
+Germany Bundesliga,FC Schalke 04 vs RB Leipzig,2026-10-31T14:30:00.000Z,357.02349,Draw,4.0,32.02,4.2,215.25
+Germany Bundesliga,Werder Bremen vs 1899 Hoffenheim,2026-10-31T14:30:00.000Z,62.66707,Werder Bremen,2.94,28.02,3.0,2.0
+Germany Bundesliga,Werder Bremen vs 1899 Hoffenheim,2026-10-31T14:30:00.000Z,62.66707,1899 Hoffenheim,2.36,3.0,2.4,196.04
+Germany Bundesliga,Werder Bremen vs 1899 Hoffenheim,2026-10-31T14:30:00.000Z,62.66707,Draw,4.0,201.1,4.1,49.29
+England Premier League,AFC Bournemouth vs Leeds United,2026-10-31T15:00:00.000Z,2638.29475,AFC Bournemouth,2.18,113.06,2.2,1154.27
+England Premier League,AFC Bournemouth vs Leeds United,2026-10-31T15:00:00.000Z,2638.29475,Leeds United,3.65,115.08,3.75,109.05
+England Premier League,AFC Bournemouth vs Leeds United,2026-10-31T15:00:00.000Z,2638.29475,Draw,3.55,593.95,3.65,827.2
+England Championship,Bolton Wanderers vs Bristol City,2026-10-31T15:00:00.000Z,7.28915,Bolton Wanderers,2.82,26.89,3.0,3.01
+England Championship,Bolton Wanderers vs Bristol City,2026-10-31T15:00:00.000Z,7.28915,Bristol City,2.52,3.01,2.68,3.0
+England Championship,Bolton Wanderers vs Bristol City,2026-10-31T15:00:00.000Z,7.28915,Draw,3.6,4.01,3.8,2.01
+England Premier League,Brentford vs Nottingham Forest,2026-10-31T15:00:00.000Z,1781.38276,Brentford,2.08,268.13,2.1,3.0
+England Premier League,Brentford vs Nottingham Forest,2026-10-31T15:00:00.000Z,1781.38276,Nottingham Forest,3.7,14.05,3.8,81.04
+England Premier League,Brentford vs Nottingham Forest,2026-10-31T15:00:00.000Z,1781.38276,Draw,3.85,23.09,3.9,127.15
+England Championship,Burnley vs Portsmouth,2026-10-31T15:00:00.000Z,0.0,Burnley,2.1,2.0,2.3,32.58
+England Championship,Burnley vs Portsmouth,2026-10-31T15:00:00.000Z,0.0,Portsmouth,3.55,40.04,4.1,15.33
+England Championship,Burnley vs Portsmouth,2026-10-31T15:00:00.000Z,0.0,Draw,3.45,3.0,3.95,22.02
+England Premier League,Coventry City vs Sunderland,2026-10-31T15:00:00.000Z,1997.72181,Coventry City,3.3,207.28,3.35,32.03
+England Premier League,Coventry City vs Sunderland,2026-10-31T15:00:00.000Z,1997.72181,Sunderland,2.4,83.09,2.42,184.4
+England Premier League,Coventry City vs Sunderland,2026-10-31T15:00:00.000Z,1997.72181,Draw,3.45,96.31,3.5,2072.61
+England Premier League,Hull City vs Ipswich Town,2026-10-31T15:00:00.000Z,1541.43206,Hull City,2.78,46.04,2.8,221.65
+England Premier League,Hull City vs Ipswich Town,2026-10-31T15:00:00.000Z,1541.43206,Ipswich Town,2.82,48.06,2.84,91.42
+England Premier League,Hull City vs Ipswich Town,2026-10-31T15:00:00.000Z,1541.43206,Draw,3.5,784.04,3.55,2843.3
+England Premier League,Manchester City vs Brighton & Hove Albion,2026-10-31T15:00:00.000Z,288.1685,Manchester City,1.69,44.17,1.7,42.02
+England Premier League,Manchester City vs Brighton & Hove Albion,2026-10-31T15:00:00.000Z,288.1685,Brighton & Hove Albion,5.0,46.02,5.2,25.1
+England Premier League,Manchester City vs Brighton & Hove Albion,2026-10-31T15:00:00.000Z,288.1685,Draw,4.6,32.02,4.8,143.56
+England Championship,Middlesbrough vs Charlton Athletic,2026-10-31T15:00:00.000Z,31.68786,Middlesbrough,1.31,102.27,1.32,175.51
+England Championship,Middlesbrough vs Charlton Athletic,2026-10-31T15:00:00.000Z,31.68786,Charlton Athletic,11.0,3.01,11.5,4.0
+England Championship,Middlesbrough vs Charlton Athletic,2026-10-31T15:00:00.000Z,31.68786,Draw,6.4,15.01,6.6,11.04
+England Championship,Millwall vs Derby County,2026-10-31T15:00:00.000Z,0.0,Millwall,1.69,3.76,1.8,5.0
+England Championship,Millwall vs Derby County,2026-10-31T15:00:00.000Z,0.0,Derby County,5.0,7.22,6.0,2.71
+England Championship,Millwall vs Derby County,2026-10-31T15:00:00.000Z,0.0,Draw,3.85,3.01,4.3,3.0
+England Championship,Southampton vs Queens Park Rangers,2026-10-31T15:00:00.000Z,1.78051,Southampton,1.76,109.1,1.88,3.0
+England Championship,Southampton vs Queens Park Rangers,2026-10-31T15:00:00.000Z,1.78051,Queens Park Rangers,4.3,5.22,4.9,14.01
+England Championship,Southampton vs Queens Park Rangers,2026-10-31T15:00:00.000Z,1.78051,Draw,4.1,17.02,4.7,28.03
+England Championship,Swansea City vs Blackburn Rovers,2026-10-31T15:00:00.000Z,0.0,Swansea City,1.77,56.4,1.86,50.04
+England Championship,Swansea City vs Blackburn Rovers,2026-10-31T15:00:00.000Z,0.0,Blackburn Rovers,4.8,21.02,5.6,17.86
+England Championship,Swansea City vs Blackburn Rovers,2026-10-31T15:00:00.000Z,0.0,Draw,3.85,4.0,4.0,2.01
+England Championship,West Ham vs West Bromwich Albion,2026-10-31T15:00:00.000Z,0.0,West Ham,1.62,2.0,1.68,57.85
+England Championship,West Ham vs West Bromwich Albion,2026-10-31T15:00:00.000Z,0.0,West Bromwich Albion,5.5,2.0,6.8,15.16
+England Championship,West Ham vs West Bromwich Albion,2026-10-31T15:00:00.000Z,0.0,Draw,4.4,41.9,4.8,31.03
+England Championship,Wolverhampton Wanderers vs Cardiff City,2026-10-31T15:00:00.000Z,0.0,Wolverhampton Wanderers,1.66,7.01,1.74,66.88
+England Championship,Wolverhampton Wanderers vs Cardiff City,2026-10-31T15:00:00.000Z,0.0,Cardiff City,4.7,20.57,5.4,21.64
+England Championship,Wolverhampton Wanderers vs Cardiff City,2026-10-31T15:00:00.000Z,0.0,Draw,4.5,46.41,4.9,3.0
+Italy Serie A,Udinese vs AS Roma,2026-10-31T17:00:00.000Z,2.64084,Udinese,5.8,32.59,6.6,21.77
+Italy Serie A,Udinese vs AS Roma,2026-10-31T17:00:00.000Z,2.64084,AS Roma,1.59,13.0,1.65,113.95
+Italy Serie A,Udinese vs AS Roma,2026-10-31T17:00:00.000Z,2.64084,Draw,4.4,32.67,4.9,22.07
+Germany Bundesliga,FC Bayern München vs Borussia Dortmund,2026-10-31T17:30:00.000Z,141.31562,FC Bayern München,1.38,3.0,1.41,128.11
+Germany Bundesliga,FC Bayern München vs Borussia Dortmund,2026-10-31T17:30:00.000Z,141.31562,Borussia Dortmund,7.8,254.53,8.8,46.43
+Germany Bundesliga,FC Bayern München vs Borussia Dortmund,2026-10-31T17:30:00.000Z,141.31562,Draw,6.2,17.02,6.4,17.05
+England Premier League,Tottenham Hotspur vs Crystal Palace,2026-10-31T17:30:00.000Z,1523.98485,Tottenham Hotspur,1.59,36.05,1.6,3.0
+England Premier League,Tottenham Hotspur vs Crystal Palace,2026-10-31T17:30:00.000Z,1523.98485,Crystal Palace,6.0,22.99,6.2,19.01
+England Premier League,Tottenham Hotspur vs Crystal Palace,2026-10-31T17:30:00.000Z,1523.98485,Draw,4.8,4.98,4.9,125.67
+Brazil Serie A,Coritiba vs EC Vitória,2026-10-31T19:00:00.000Z,0.0,Coritiba,2.34,26.46,2.66,23.28
+Brazil Serie A,Coritiba vs EC Vitória,2026-10-31T19:00:00.000Z,0.0,EC Vitória,3.05,20.3,3.6,17.2
+Brazil Serie A,Coritiba vs EC Vitória,2026-10-31T19:00:00.000Z,0.0,Draw,3.4,18.21,4.0,16.13
+Italy Serie A,AC Milan vs Internazionale,2026-10-31T19:45:00.000Z,0.0,AC Milan,3.45,112.72,3.65,3.68
+Italy Serie A,AC Milan vs Internazionale,2026-10-31T19:45:00.000Z,0.0,Internazionale,2.1,101.07,2.2,112.72
+Italy Serie A,AC Milan vs Internazionale,2026-10-31T19:45:00.000Z,0.0,Draw,3.85,33.04,4.1,79.84
+France Ligue 1,Olympique Lyonnais vs Angers SCO,2026-10-31T19:45:00.000Z,1.39464,Olympique Lyonnais,1.42,3.0,1.45,666.71
+France Ligue 1,Olympique Lyonnais vs Angers SCO,2026-10-31T19:45:00.000Z,1.39464,Angers SCO,8.4,15.05,9.0,18.01
+France Ligue 1,Olympique Lyonnais vs Angers SCO,2026-10-31T19:45:00.000Z,1.39464,Draw,5.2,275.5,5.7,32.14
+France Ligue 1,Troyes AC vs Le Mans FC,2026-10-31T19:45:00.000Z,0.0,Troyes AC,2.4,65.04,2.52,284.66
+France Ligue 1,Troyes AC vs Le Mans FC,2026-10-31T19:45:00.000Z,0.0,Le Mans FC,3.05,327.1,3.25,55.03
+France Ligue 1,Troyes AC vs Le Mans FC,2026-10-31T19:45:00.000Z,0.0,Draw,3.6,3.0,3.65,36.05
+England Premier League,Aston Villa vs Fulham,2026-10-31T20:00:00.000Z,2085.60785,Aston Villa,2.1,2.0,2.12,542.44
+England Premier League,Aston Villa vs Fulham,2026-10-31T20:00:00.000Z,2085.60785,Fulham,3.75,60.2,3.8,233.59
+England Premier League,Aston Villa vs Fulham,2026-10-31T20:00:00.000Z,2085.60785,Draw,3.8,47.15,3.85,136.03
+Spain La Liga,FC Barcelona vs Deportivo Alaves,2026-10-31T20:00:00.000Z,3326.76178,FC Barcelona,1.13,7361.94,1.14,495.12
+Spain La Liga,FC Barcelona vs Deportivo Alaves,2026-10-31T20:00:00.000Z,3326.76178,Deportivo Alaves,32.0,344.93,34.0,4.0
+Spain La Liga,FC Barcelona vs Deportivo Alaves,2026-10-31T20:00:00.000Z,3326.76178,Draw,11.0,2.0,11.5,73.04
+Mexico Liga MX,Pachuca vs Tigres de la UANL,2026-10-31T23:00:00.000Z,6.17352,Pachuca,2.22,39.55,2.58,33.02
+Mexico Liga MX,Pachuca vs Tigres de la UANL,2026-10-31T23:00:00.000Z,6.17352,Tigres de la UANL,3.05,29.02,3.8,22.02
+Mexico Liga MX,Pachuca vs Tigres de la UANL,2026-10-31T23:00:00.000Z,6.17352,Draw,3.4,26.02,4.4,21.02
+Mexico Liga MX,Monterrey vs Club Tijuana,2026-11-01T01:00:00.000Z,0.0,Monterrey,,,,
+Mexico Liga MX,Monterrey vs Club Tijuana,2026-11-01T01:00:00.000Z,0.0,Club Tijuana,,,,
+Mexico Liga MX,Monterrey vs Club Tijuana,2026-11-01T01:00:00.000Z,0.0,Draw,,,,
+Mexico Liga MX,CD Guadalajara vs Atlante,2026-11-01T01:07:00.000Z,0.13379,CD Guadalajara,1.45,86.05,1.62,80.04
+Mexico Liga MX,CD Guadalajara vs Atlante,2026-11-01T01:07:00.000Z,0.13379,Atlante,5.9,24.01,9.8,14.51
+Mexico Liga MX,CD Guadalajara vs Atlante,2026-11-01T01:07:00.000Z,0.13379,Draw,4.6,27.01,6.8,17.6
+Mexico Liga MX,Club América vs Deportivo Toluca,2026-11-01T03:00:00.000Z,0.0,Club América,,,,
+Mexico Liga MX,Club América vs Deportivo Toluca,2026-11-01T03:00:00.000Z,0.0,Deportivo Toluca,,,,
+Mexico Liga MX,Club América vs Deportivo Toluca,2026-11-01T03:00:00.000Z,0.0,Draw,,,,
+Italy Serie A,Como vs Venezia,2026-11-01T11:30:00.000Z,0.0,Como,1.37,180.51,1.42,75.27
+Italy Serie A,Como vs Venezia,2026-11-01T11:30:00.000Z,0.0,Venezia,7.8,33.73,9.2,15.35
+Italy Serie A,Como vs Venezia,2026-11-01T11:30:00.000Z,0.0,Draw,5.7,39.61,6.6,35.08
+Spain La Liga,Getafe vs Sevilla,2026-11-01T13:00:00.000Z,350.46652,Getafe,3.4,4.01,3.45,338.15
+Spain La Liga,Getafe vs Sevilla,2026-11-01T13:00:00.000Z,350.46652,Sevilla,2.56,343.16,2.6,2.0
+Spain La Liga,Getafe vs Sevilla,2026-11-01T13:00:00.000Z,350.46652,Draw,3.05,15.05,3.1,144.56
+Italy Serie A,Frosinone vs Torino,2026-11-01T14:00:00.000Z,0.0,Frosinone,2.26,88.05,2.38,95.12
+Italy Serie A,Frosinone vs Torino,2026-11-01T14:00:00.000Z,0.0,Torino,2.98,105.59,3.2,57.07
+Italy Serie A,Frosinone vs Torino,2026-11-01T14:00:00.000Z,0.0,Draw,3.95,31.64,4.2,50.04
+Italy Serie A,Lazio vs Cagliari,2026-11-01T14:00:00.000Z,503.49484,Lazio,1.46,3.0,1.49,71.05
+Italy Serie A,Lazio vs Cagliari,2026-11-01T14:00:00.000Z,503.49484,Cagliari,8.4,3.0,9.8,24.64
+Italy Serie A,Lazio vs Cagliari,2026-11-01T14:00:00.000Z,503.49484,Draw,4.6,25.02,5.1,37.0
+France Ligue 1,RC Strasbourg vs AJ Auxerre,2026-11-01T14:00:00.000Z,0.0,RC Strasbourg,1.87,97.09,1.92,273.52
+France Ligue 1,RC Strasbourg vs AJ Auxerre,2026-11-01T14:00:00.000Z,0.0,AJ Auxerre,4.2,2.01,4.4,67.06
+France Ligue 1,RC Strasbourg vs AJ Auxerre,2026-11-01T14:00:00.000Z,0.0,Draw,4.1,270.45,4.2,36.05
+Germany Bundesliga,1. FC Union Berlin vs 1. FC Köln,2026-11-01T14:30:00.000Z,0.0,1. FC Union Berlin,2.58,40.03,2.72,235.46
+Germany Bundesliga,1. FC Union Berlin vs 1. FC Köln,2026-11-01T14:30:00.000Z,0.0,1. FC Köln,2.74,261.48,2.88,3.0
+Germany Bundesliga,1. FC Union Berlin vs 1. FC Köln,2026-11-01T14:30:00.000Z,0.0,Draw,3.65,26.01,3.85,36.03
+Spain La Liga,Racing Santander vs Real Madrid,2026-11-01T15:15:00.000Z,3382.78552,Racing Santander,12.5,3.0,13.0,9.04
+Spain La Liga,Racing Santander vs Real Madrid,2026-11-01T15:15:00.000Z,3382.78552,Real Madrid,1.24,87.08,1.25,73.07
+Spain La Liga,Racing Santander vs Real Madrid,2026-11-01T15:15:00.000Z,3382.78552,Draw,8.4,3.0,8.6,9.02
+France Ligue 1,Paris FC vs AS Monaco,2026-11-01T16:15:00.000Z,18.75164,Paris FC,2.36,129.09,2.46,107.06
+France Ligue 1,Paris FC vs AS Monaco,2026-11-01T16:15:00.000Z,18.75164,AS Monaco,3.1,88.05,3.25,53.04
+France Ligue 1,Paris FC vs AS Monaco,2026-11-01T16:15:00.000Z,18.75164,Draw,3.65,2.0,3.75,57.04
+Germany Bundesliga,Eintracht Frankfurt vs Hamburger SV,2026-11-01T16:30:00.000Z,9.22163,Eintracht Frankfurt,1.67,79.04,1.69,15.01
+Germany Bundesliga,Eintracht Frankfurt vs Hamburger SV,2026-11-01T16:30:00.000Z,9.22163,Hamburger SV,5.1,4.0,5.3,15.01
+Germany Bundesliga,Eintracht Frankfurt vs Hamburger SV,2026-11-01T16:30:00.000Z,9.22163,Draw,4.6,29.01,4.8,38.06
+England Premier League,Liverpool vs Arsenal,2026-11-01T16:30:00.000Z,3830.90416,Liverpool,3.2,111.05,3.25,118.46
+England Premier League,Liverpool vs Arsenal,2026-11-01T16:30:00.000Z,3830.90416,Arsenal,2.38,164.64,2.42,51.04
+England Premier League,Liverpool vs Arsenal,2026-11-01T16:30:00.000Z,3830.90416,Draw,3.55,64.91,3.6,4669.58
+Italy Serie A,Lecce vs Genoa,2026-11-01T17:00:00.000Z,0.0,Lecce,2.82,139.25,3.0,178.18
+Italy Serie A,Lecce vs Genoa,2026-11-01T17:00:00.000Z,0.0,Genoa,2.82,125.18,3.0,40.03
+Italy Serie A,Lecce vs Genoa,2026-11-01T17:00:00.000Z,0.0,Draw,3.1,113.72,3.2,46.03
+Spain La Liga,Elche CF vs Valencia,2026-11-01T17:30:00.000Z,264.65079,Elche CF,2.44,8.36,2.5,79.15
+Spain La Liga,Elche CF vs Valencia,2026-11-01T17:30:00.000Z,264.65079,Valencia,3.2,14.01,3.3,347.74
+Spain La Liga,Elche CF vs Valencia,2026-11-01T17:30:00.000Z,264.65079,Draw,3.45,354.19,3.5,73.28
+Italy Serie A,Juventus vs Napoli,2026-11-01T19:45:00.000Z,0.0,Juventus,1.85,13.01,1.96,139.95
+Italy Serie A,Juventus vs Napoli,2026-11-01T19:45:00.000Z,0.0,Napoli,4.5,35.98,5.1,24.6
+Italy Serie A,Juventus vs Napoli,2026-11-01T19:45:00.000Z,0.0,Draw,3.65,33.81,4.0,62.77
+France Ligue 1,Olympique Marseille vs Toulouse FC,2026-11-01T19:45:00.000Z,0.0,Olympique Marseille,1.95,3.0,2.0,2.41
+France Ligue 1,Olympique Marseille vs Toulouse FC,2026-11-01T19:45:00.000Z,0.0,Toulouse FC,3.75,41.03,4.0,84.77
+France Ligue 1,Olympique Marseille vs Toulouse FC,2026-11-01T19:45:00.000Z,0.0,Draw,4.1,255.56,4.3,2.0
+Spain La Liga,Athletic Bilbao vs Real Sociedad,2026-11-01T20:00:00.000Z,1089.3453,Athletic Bilbao,2.26,364.18,2.3,54.0
+Spain La Liga,Athletic Bilbao vs Real Sociedad,2026-11-01T20:00:00.000Z,1089.3453,Real Sociedad,3.4,21.08,3.5,344.52
+Spain La Liga,Athletic Bilbao vs Real Sociedad,2026-11-01T20:00:00.000Z,1089.3453,Draw,3.65,53.21,3.7,30.02
+Italy Serie A,Sassuolo vs Fiorentina,2026-11-02T17:30:00.000Z,263.50361,Sassuolo,2.98,2.0,3.05,15.01
+Italy Serie A,Sassuolo vs Fiorentina,2026-11-02T17:30:00.000Z,263.50361,Fiorentina,2.46,13.01,2.5,8.0
+Italy Serie A,Sassuolo vs Fiorentina,2026-11-02T17:30:00.000Z,263.50361,Draw,3.75,2.0,3.8,14.01
+Italy Serie A,Atalanta vs Parma,2026-11-02T19:45:00.000Z,0.0,Atalanta,1.47,71.02,1.53,73.08
+Italy Serie A,Atalanta vs Parma,2026-11-02T19:45:00.000Z,0.0,Parma,6.8,16.67,8.8,12.8
+Italy Serie A,Atalanta vs Parma,2026-11-02T19:45:00.000Z,0.0,Draw,4.7,23.79,5.5,20.32
+France Ligue 1,FC Lorient vs Stade Brestois 29,2026-11-02T19:45:00.000Z,0.0,FC Lorient,2.5,27.49,2.98,23.06
+France Ligue 1,FC Lorient vs Stade Brestois 29,2026-11-02T19:45:00.000Z,0.0,Stade Brestois 29,2.76,24.9,3.3,20.83
+France Ligue 1,FC Lorient vs Stade Brestois 29,2026-11-02T19:45:00.000Z,0.0,Draw,3.05,22.54,3.75,18.31
+Spain La Liga,Deportivo La Coruña vs Osasuna,2026-11-02T20:00:00.000Z,0.0,Deportivo La Coruña,2.26,109.09,2.3,112.21
+Spain La Liga,Deportivo La Coruña vs Osasuna,2026-11-02T20:00:00.000Z,0.0,Osasuna,3.7,61.05,3.85,16.01
+Spain La Liga,Deportivo La Coruña vs Osasuna,2026-11-02T20:00:00.000Z,0.0,Draw,3.3,353.19,3.4,60.05
+England Premier League,Newcastle United vs Everton,2026-11-02T20:00:00.000Z,2.83955,Newcastle United,2.42,3.0,2.44,4.0
+England Premier League,Newcastle United vs Everton,2026-11-02T20:00:00.000Z,2.83955,Everton,3.1,19.06,3.15,2.0
+England Premier League,Newcastle United vs Everton,2026-11-02T20:00:00.000Z,2.83955,Draw,3.7,338.21,3.75,565.69
+Brazil Serie A,Red Bull Bragantino vs Santos FC,2026-11-02T23:00:00.000Z,0.0,Red Bull Bragantino,,,,
+Brazil Serie A,Red Bull Bragantino vs Santos FC,2026-11-02T23:00:00.000Z,0.0,Santos FC,,,,
+Brazil Serie A,Red Bull Bragantino vs Santos FC,2026-11-02T23:00:00.000Z,0.0,Draw,,,,
+UEFA Champions League,Galatasaray SK vs VfB Stuttgart,2026-11-03T17:45:00.000Z,0.0,Galatasaray SK,2.2,35.62,2.4,51.01
+UEFA Champions League,Galatasaray SK vs VfB Stuttgart,2026-11-03T17:45:00.000Z,0.0,VfB Stuttgart,2.84,41.28,3.1,37.83
+UEFA Champions League,Galatasaray SK vs VfB Stuttgart,2026-11-03T17:45:00.000Z,0.0,Draw,4.2,56.85,4.8,24.46
+UEFA Champions League,Shakhtar Donetsk vs Sporting CP,2026-11-03T17:45:00.000Z,0.18412,Shakhtar Donetsk,3.85,3.0,4.1,15.0
+UEFA Champions League,Shakhtar Donetsk vs Sporting CP,2026-11-03T17:45:00.000Z,0.18412,Sporting CP,1.99,15.0,2.04,18.0
+UEFA Champions League,Shakhtar Donetsk vs Sporting CP,2026-11-03T17:45:00.000Z,0.18412,Draw,3.9,58.78,4.1,36.01
+UEFA Champions League,Atlético de Madrid vs FC Bayern München,2026-11-03T20:00:00.000Z,0.0,Atlético de Madrid,3.25,40.45,3.6,36.42
+UEFA Champions League,Atlético de Madrid vs FC Bayern München,2026-11-03T20:00:00.000Z,0.0,FC Bayern München,2.0,50.04,2.14,61.29
+UEFA Champions League,Atlético de Madrid vs FC Bayern München,2026-11-03T20:00:00.000Z,0.0,Draw,4.3,63.53,4.6,3.0
+UEFA Champions League,Bodø/Glimt vs Lille OSC,2026-11-03T20:00:00.000Z,0.0,Bodø/Glimt,1.89,3.0,1.94,5.0
+UEFA Champions League,Bodø/Glimt vs Lille OSC,2026-11-03T20:00:00.000Z,0.0,Lille OSC,3.85,26.56,4.2,5.0
+UEFA Champions League,Bodø/Glimt vs Lille OSC,2026-11-03T20:00:00.000Z,0.0,Draw,4.2,3.0,4.5,3.0
+UEFA Champions League,FC Barcelona vs Aston Villa,2026-11-03T20:00:00.000Z,634.52556,FC Barcelona,1.26,1293.59,1.28,82.06
+UEFA Champions League,FC Barcelona vs Aston Villa,2026-11-03T20:00:00.000Z,634.52556,Aston Villa,11.5,7.01,12.0,15.04
+UEFA Champions League,FC Barcelona vs Aston Villa,2026-11-03T20:00:00.000Z,634.52556,Draw,7.8,27.02,8.2,24.02
+UEFA Champions League,Feyenoord vs Internazionale,2026-11-03T20:00:00.000Z,0.0,Feyenoord,4.3,28.59,5.1,22.35
+UEFA Champions League,Feyenoord vs Internazionale,2026-11-03T20:00:00.000Z,0.0,Internazionale,1.73,2.0,1.81,4.0
+UEFA Champions League,Feyenoord vs Internazionale,2026-11-03T20:00:00.000Z,0.0,Draw,4.5,33.7,4.8,14.01
+UEFA Champions League,LASK Linz vs Slovan Bratislava,2026-11-03T20:00:00.000Z,0.0,LASK Linz,1.47,217.39,1.49,139.1
+UEFA Champions League,LASK Linz vs Slovan Bratislava,2026-11-03T20:00:00.000Z,0.0,Slovan Bratislava,7.0,2.0,7.4,25.37
+UEFA Champions League,LASK Linz vs Slovan Bratislava,2026-11-03T20:00:00.000Z,0.0,Draw,5.3,3.0,5.4,2.0
+UEFA Champions League,Manchester United vs AS Roma,2026-11-03T20:00:00.000Z,0.0,Manchester United,2.38,9.03,2.52,52.89
+UEFA Champions League,Manchester United vs AS Roma,2026-11-03T20:00:00.000Z,0.0,AS Roma,2.74,4.0,2.8,60.04
+UEFA Champions League,Manchester United vs AS Roma,2026-11-03T20:00:00.000Z,0.0,Draw,4.1,6.0,4.4,3.0
+UEFA Champions League,Villarreal vs Paris Saint-Germain,2026-11-03T20:00:00.000Z,0.0,Villarreal,5.0,2.0,5.1,3.0
+UEFA Champions League,Villarreal vs Paris Saint-Germain,2026-11-03T20:00:00.000Z,0.0,Paris Saint-Germain,1.68,11.01,1.69,10.01
+UEFA Champions League,Villarreal vs Paris Saint-Germain,2026-11-03T20:00:00.000Z,0.0,Draw,4.8,3.0,4.9,2.0
