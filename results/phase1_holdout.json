@@ -1,0 +1,268 @@
+{
+  "scope": "holdout",
+  "config": {
+    "leagues": [
+      "E1",
+      "E2",
+      "E3",
+      "EC",
+      "SC1",
+      "SC2",
+      "SC3",
+      "D2",
+      "I2",
+      "SP2",
+      "F2"
+    ],
+    "dev_seasons": [
+      "2425"
+    ],
+    "holdout_seasons": [
+      "2526"
+    ],
+    "flag_edge": 0.03,
+    "commission": 0.02,
+    "min_mean_clv": 0.02,
+    "pinnacle_overround_range": [
+      1.0,
+      1.12
+    ],
+    "placebo_sets": 200,
+    "placebo_seed": 7301,
+    "bootstrap_resamples": 10000,
+    "bootstrap_seed": 20261027
+  },
+  "exclusions": {
+    "outcome_records_total": 12606,
+    "excl_no_pinnacle_early": 8415,
+    "excl_pinnacle_early_overround_out_of_range": 3,
+    "excl_no_betfair_early": 69,
+    "excl_no_date": 0,
+    "excl_no_pinnacle_close": 0,
+    "excl_pinnacle_close_overround_out_of_range": 3,
+    "excl_no_result": 0,
+    "eligible_records": 4116
+  },
+  "n_eligible_records": 4116,
+  "n_flags": 173,
+  "flag_rate": 0.042031098153547136,
+  "primary_clv": {
+    "n": 173,
+    "n_clusters": 170,
+    "mean": 0.006178949589919864,
+    "ci_low": -0.0057027125242074565,
+    "ci_high": 0.0183981515614163,
+    "p_one_sided": 0.1615838416158384
+  },
+  "variants_at_run": 2,
+  "bonferroni_alpha": 0.025,
+  "passes_hypothesis_at_bonferroni": false,
+  "mean_clv_above_zero": true,
+  "robustness_proportional": {
+    "n": 249,
+    "n_clusters": 242,
+    "mean": 0.014782054044089447,
+    "ci_low": 0.003630026566736094,
+    "ci_high": 0.026559052845877597,
+    "p_one_sided": 0.0082991700829917,
+    "n_flags": 249,
+    "agrees_in_sign": true,
+    "within_1pp": true
+  },
+  "secondary_clv_vs_exchange_close": {
+    "n": 173,
+    "n_clusters": 170,
+    "mean": -0.017265519006150847,
+    "ci_low": -0.02967590176566326,
+    "ci_high": -0.004916589260683824,
+    "p_one_sided": 0.9973002699730027,
+    "n_missing_exchange_close": 0
+  },
+  "pnl_flat_stake_noisy_secondary": {
+    "n": 173,
+    "n_clusters": 170,
+    "mean": 0.07052716763005779,
+    "ci_low": -0.19803176050591592,
+    "ci_high": 0.3481161967334317,
+    "p_one_sided": 0.3040695930406959
+  },
+  "edge_above_20pct": {
+    "n": 3,
+    "mean_clv_without_them": 0.00482410357029235
+  },
+  "by_season": [
+    {
+      "season": "2526",
+      "n": 173,
+      "mean_clv": 0.006178949589919864,
+      "ci_low": -0.0057027125242074565,
+      "ci_high": 0.0183981515614163
+    }
+  ],
+  "by_league": [
+    {
+      "league": "D2",
+      "n": 11,
+      "mean_clv": 0.024258773564783273,
+      "ci_low": -0.0014019134535571158,
+      "ci_high": 0.049017803734974774
+    },
+    {
+      "league": "E1",
+      "n": 37,
+      "mean_clv": 0.001824461377446245,
+      "ci_low": -0.02503036496772367,
+      "ci_high": 0.026278002239896903
+    },
+    {
+      "league": "E2",
+      "n": 34,
+      "mean_clv": 0.02535024591391336,
+      "ci_low": -0.006227013493024952,
+      "ci_high": 0.060445406165046116
+    },
+    {
+      "league": "E3",
+      "n": 25,
+      "mean_clv": 0.009713282235225962,
+      "ci_low": -0.013450327219288915,
+      "ci_high": 0.034867270307676335
+    },
+    {
+      "league": "EC",
+      "n": 12,
+      "mean_clv": -0.054401221149960766,
+      "ci_low": -0.0962133468634481,
+      "ci_high": -0.012209462941329633
+    },
+    {
+      "league": "F2",
+      "n": 12,
+      "mean_clv": 0.02210263815186204,
+      "ci_low": -0.00950899114553692,
+      "ci_high": 0.05726840689864534
+    },
+    {
+      "league": "I2",
+      "n": 8,
+      "mean_clv": 0.003780745210361258,
+      "ci_low": -0.04604276555155286,
+      "ci_high": 0.06559000409597966
+    },
+    {
+      "league": "SC1",
+      "n": 6,
+      "mean_clv": -0.0017039628546535919,
+      "ci_low": -0.05427458876072518,
+      "ci_high": 0.05463356071342721
+    },
+    {
+      "league": "SC2",
+      "n": 8,
+      "mean_clv": -0.02846021110377532,
+      "ci_low": -0.11128647836521142,
+      "ci_high": 0.04147768669346015
+    },
+    {
+      "league": "SP2",
+      "n": 20,
+      "mean_clv": 0.011255439108836246,
+      "ci_low": -0.016541333077571746,
+      "ci_high": 0.03636862830728677
+    }
+  ],
+  "season_trend": {
+    "slope_per_season": NaN
+  },
+  "by_month": [
+    {
+      "month": "2025-08",
+      "n": 40,
+      "mean_clv": 0.01700771680227326,
+      "ci_low": -0.00876657499049399,
+      "ci_high": 0.042805751623185596
+    },
+    {
+      "month": "2025-09",
+      "n": 46,
+      "mean_clv": -0.013503834153672256,
+      "ci_low": -0.03166952262644121,
+      "ci_high": 0.006004988709546773
+    },
+    {
+      "month": "2025-10",
+      "n": 71,
+      "mean_clv": 0.01501468933946901,
+      "ci_low": 0.00041623646570322284,
+      "ci_high": 0.028697018651003003
+    },
+    {
+      "month": "2025-11",
+      "n": 7,
+      "mean_clv": 0.08462318941948817,
+      "ci_low": -0.007287760281532459,
+      "ci_high": 0.21035528200337195
+    },
+    {
+      "month": "2025-12",
+      "n": 5,
+      "mean_clv": -0.09350565628757683,
+      "ci_low": -0.16442788640069653,
+      "ci_high": -0.022583426174457143
+    },
+    {
+      "month": "2026-01",
+      "n": 4,
+      "mean_clv": -0.045262752391675765,
+      "ci_low": -0.16484197386575383,
+      "ci_high": 0.0743164690824023
+    }
+  ],
+  "month_trend": {
+    "slope_per_season": -0.013764266065469707,
+    "seasons": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01"
+    ]
+  },
+  "early_vs_late": {
+    "split_date": "2025-10-03",
+    "early": {
+      "n": 86,
+      "n_clusters": 85,
+      "mean": 0.0006875848956047294,
+      "ci_low": -0.01533035687325052,
+      "ci_high": 0.016764561388776696,
+      "p_one_sided": 0.46385361463853614
+    },
+    "late": {
+      "n": 87,
+      "n_clusters": 85,
+      "mean": 0.011607195149817584,
+      "ci_low": -0.005843796188687823,
+      "ci_high": 0.029412538181040778,
+      "p_one_sided": 0.0994900509949005
+    }
+  },
+  "without_best_league": {
+    "dropped": "E2",
+    "n": 139,
+    "n_clusters": 136,
+    "mean": 0.0014895677552739732,
+    "ci_low": -0.011170774896134427,
+    "ci_high": 0.013873823659629438,
+    "p_one_sided": 0.41075892410758924
+  },
+  "placebo_comparison": {
+    "n_sets": 20,
+    "placebo_mean_clv_avg": -0.039967847355572184,
+    "placebo_mean_clv_range": [
+      -0.05048042153104371,
+      -0.032453911668886594
+    ]
+  }
+}

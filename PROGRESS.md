@@ -4,8 +4,8 @@ A fresh session can resume from this file alone. Standing instructions: CLAUDE.m
 
 ## Where we are
 
-- Phase 0a (is it beatable?) and Phase 0b (feasibility): done, written up in REPORT.md.
-- Phase 1 (historical check): see the log below for the current step.
+- Phase 0a, 0b and Phase 1: **done**. The holdout has been unsealed once and analysed. No more Phase 1 runs.
+- **Status: BLOCKED.** The owner has been asked once (REPORT.md "Owner action needed"). Wait for the reply.
 - Next: see "Next steps" at the bottom.
 
 ## Log
@@ -68,3 +68,40 @@ as CLAUDE.md s8 requires. This is recorded as a limitation in REPORT.md.
 - Expected rows per league-season = teams × (teams − 1), × 2 for Scottish leagues (they play four times).
 - p-value: one-sided, from the centred cluster bootstrap (10,000 resamples, fixed seed). The smallest
   reportable p is about 1e-4.
+
+**Download and coverage (21:20–21:33 UTC).** 154 files (11 leagues × 2012-13..2025-26) were fetched and
+verified in `data/MANIFEST.csv`. 142 matched the expected row count exactly. The 12 that did not are all
+explained: COVID-curtailed 2019-20 seasons (E2, E3, EC, F2, SC1–3) and 2020-21 (EC, SC1–3); E2 2019-20
+had 23 teams (Bury expelled); F2 2023-24 has one match missing (−1). None are in the analysis window.
+Coverage (`results/coverage.csv`): **Betfair Exchange columns exist only from 2024-25.** Pinnacle covers
+only ~24–49% of 2025-26 matches.
+
+**Forced deviation (before any CLV).** CLAUDE.md s8 names 2024-25 and 2025-26 as the sealed holdout, but
+those are the only seasons with exchange prices. Conservative choice: development = 2024-25, sealed
+holdout = 2025-26. Reason: it keeps an untouched holdout and still allows a development result. Recorded
+in PREREGISTRATION.md (commit 4105a4b, 21:33:56 UTC). With only one development season, fading is checked
+by month and by a first/second-half split at the median flag date.
+
+**Placebo calibration.** First run: check (b) rejected 100% → the machinery was broken. I found the bug:
+centring on the pool mean instead of the stratum mean (3-point bias). Fixed and re-run: (a) 0.0%,
+(b) 3.0%. Passed. Recorded as an addendum in PREREGISTRATION.md before the development run.
+
+**Phase 1 results.** V0001 development: 300 flags, mean CLV +0.94% [−0.48%, +2.39%], p = 0.097.
+Committed as final (results/phase1_dev.json), then unsealed once (results/UNSEALED.json; a second unseal is
+refused). V0002 holdout: 173 flags, mean CLV +0.62% [−0.57%, +1.84%], p = 0.16. Both are > 0, so the
+pre-registered spending rule does not force a stop. Neither meets the hypothesis.
+
+**Gate-5 arithmetic** (no new CLV computed): at +2% CLV and a £10 stake, about 245 persisting flags a
+month are needed to cover about £49 a month in costs. At the observed CLV it would be 550–1,600 a month.
+Because of this and the thin liquidity, I recommended stopping. I asked the owner once for the paid-phase
+items in case they want to go ahead anyway.
+
+## Next steps
+
+1. Wait for the owner's reply. If "stop": set REPORT.md status to NO EDGE, with the sentence "Historical
+   CLV small and non-significant; live test not run on cost grounds", and finish.
+2. If the owner says yes to all four items, and Matchbook confirms in writing that the use is permitted:
+   build the recorder in `recorder/` (Phase 2 spec in CLAUDE.md s9 and PREREGISTRATION.md "Phases 2–4"),
+   unauthenticated Matchbook GETs only (no login file needed), plus the install script and unit tests.
+   Then a 1-day dry run, then the 1-week pilot (counts only).
+3. Any override goes in a new "Overrides" log section here and in REPORT.md s7.
