@@ -202,19 +202,22 @@ def placebo_comparison(t, f, cfg, n_sets: int = 20) -> dict:
 
 def calibrate(scope: str = "dev") -> dict:
     """Run the full pass/fail rule on 200 placebo sets at nominal alpha 0.05.
-    (a) as written: matched random records; (b) null-centred: the same sets with the
-    pool's mean CLV subtracted, so the true mean is exactly zero and a correct test
-    should pass about 5% of the time."""
+    (a) as written: matched random records; (b) null-centred: the same sets with each
+    record's stratum-mean CLV subtracted, so the true mean is exactly zero and a correct
+    test should reject about 5% of the time."""
     cfg = load_config()
     t, excl = build(scope, cfg)
     f = flags_for(t)
     t = t.assign(clv=clv(t["bfe_early"], t["pin_close_fair"]))
-    pool_mean = float(t["clv"].mean())
+    # Centre each record on its own stratum's mean. (Centring on the whole pool's mean was
+    # a bug: placebo sets copy the flags' stratum mix, so their expected mean is the
+    # stratum-weighted mean, not the pool mean. See PROGRESS.md, 2026-10-27.)
+    t["clv_centred"] = t["clv"] - t.groupby(strata(t))["clv"].transform("mean")
     res_a, res_c = [], []
     for p in placebo_sets(t, f, cfg["placebo_sets"], seed=cfg["placebo_seed"]):
         b = cluster_bootstrap(p["clv"], p["event_id"])
         res_a.append(passes(b, 0.05, cfg["min_mean_clv"]))
-        bc = cluster_bootstrap(p["clv"] - pool_mean, p["event_id"])
+        bc = cluster_bootstrap(p["clv_centred"], p["event_id"])
         res_c.append(bool(bc.p_one_sided < 0.05))
     out = {
         "scope": scope, "n_sets": len(res_a), "set_size": int(len(f)), "exclusions": excl,

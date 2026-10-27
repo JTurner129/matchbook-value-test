@@ -1,0 +1,20 @@
+{
+  "scope": "dev",
+  "n_sets": 200,
+  "set_size": 300,
+  "exclusions": {
+    "outcome_records_total": 12606,
+    "excl_no_pinnacle_early": 24,
+    "excl_pinnacle_early_overround_out_of_range": 3,
+    "excl_no_betfair_early": 57,
+    "excl_no_date": 0,
+    "excl_no_pinnacle_close": 0,
+    "excl_pinnacle_close_overround_out_of_range": 0,
+    "excl_no_result": 0,
+    "eligible_records": 12522
+  },
+  "pass_rate_as_written": 0.0,
+  "reject_rate_null_centred_p_lt_0.05": 0.03,
+  "limit": 0.1,
+  "calibration_ok": true
+}

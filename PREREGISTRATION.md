@@ -139,3 +139,12 @@ These repeat CLAUDE.md s9 and add the details it leaves open. They are fixed bef
   maximum of 10 weeks. Single interim look at week 4, for futility only: stop with NO EDGE if the upper 95%
   bound on mean CLV is below 0.
 - Pass (CONFIRMED) needs all six gates in CLAUDE.md s9 Phase 5, exactly as written there.
+
+## Addendum 2026-10-27 (before any development CLV was computed): placebo bug fix
+
+The first placebo calibration run failed check (b): 100% rejection. The cause was a bug in the check, not
+in the bootstrap. Subtracting the *pool's* mean CLV does not make a placebo set's true mean zero,
+because placebo sets copy the flags' stratum mix. Their expected mean is the stratum-weighted mean
+(−5.1% versus a pool mean of −8.0%), so the "centred" sets kept a +3-point bias. Fix: subtract each
+record's own stratum mean. After the fix: (a) 0.0% pass rate, (b) 3.0% rejection rate. Both are within
+the 10% limit. Nothing else changed. The development analysis had not been run at this point.
