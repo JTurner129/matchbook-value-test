@@ -96,11 +96,19 @@ month are needed to cover about £49 a month in costs. At the observed CLV it wo
 Because of this and the thin liquidity, I recommended stopping. I asked the owner once for the paid-phase
 items in case they want to go ahead anyway.
 
+### 2026-10-28
+
+**Owner reply 1.** The owner reports that Matchbook (api@matchbook.com) gave the OK for the planned use, which
+resolves the Fair Usage Policy 3.5(d) question (owner checklist item 1). The written reply has not been seen
+in this session. If the owner pastes it, quote it here. No reply yet on items 2–4 (odds feed, machine, data
+repo), and the owner has not said whether they accept the recommendation to stop. Nothing is bought without
+an explicit yes, so the status stays BLOCKED.
+
 ## Next steps
 
 1. Wait for the owner's reply. If "stop": set REPORT.md status to NO EDGE, with the sentence "Historical
    CLV small and non-significant; live test not run on cost grounds", and finish.
-2. If the owner says yes to all four items, and Matchbook confirms in writing that the use is permitted:
+2. Matchbook's OK: received (2026-10-28, per owner). If the owner says yes to items 2–4:
    build the recorder in `recorder/` (Phase 2 spec in CLAUDE.md s9 and PREREGISTRATION.md "Phases 2–4"),
    unauthenticated Matchbook GETs only (no login file needed), plus the install script and unit tests.
    Then a 1-day dry run, then the 1-week pilot (counts only).

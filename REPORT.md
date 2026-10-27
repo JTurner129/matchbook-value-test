@@ -7,9 +7,10 @@ test needs your decision, and I recommend **not** paying for it (reasons below).
 **Costs to date:** £0.00 (football-data.co.uk: free; Matchbook API: free, unauthenticated reads; no
 odds feed bought; no machine rented). Total £0.00.
 
-**Owner action needed:** one decision. Do you want to pay for the live test (about £50 a month for
-2–3 months) despite my recommendation to stop? If yes, there are 4 items in
-[Owner action needed](#owner-action-needed) below. If no, reply "stop" and I will mark the project NO EDGE.
+**Owner action needed:** Item 1 is done: Matchbook gave the OK (28 Oct 2026, reported by the owner). Still
+needed: a decision to pay for the live test (about £50 a month for 2–3 months) despite my recommendation to
+stop. If yes, a yes to items 2–4 in [Owner action needed](#owner-action-needed). If no, reply "stop" and I
+will mark the project NO EDGE.
 
 ---
 
@@ -184,7 +185,7 @@ None.
 
 Only needed if you decide to go ahead despite the recommendation. Reply with yes or no to each item.
 
-1. **Matchbook account: not needed.** Prices are readable without logging in, so no account, deposit or ID
+1. **DONE (28 Oct 2026): Matchbook gave the OK, per the owner.** **Matchbook account: not needed.** Prices are readable without logging in, so no account, deposit or ID
    check is required. **Instead, please email api@matchbook.com** (free), because of Fair Usage Policy
    3.5(d). Suggested text: *"I'm a private UK customer planning a personal, non-commercial research script
    that reads pre-match football prices from the public events endpoint every 3 minutes (about 20,000 GETs
